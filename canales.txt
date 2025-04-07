@@ -1,7 +1,144 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
+A24.ar,A24.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/A24.ar.png
+AandE.ar,AandE.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/refs/heads/main/logos/AandE.ar%20.png
+AMC.ar,AMC.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/AMC.ar.png
+America Sports.ar,America Sports.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/America%20Sports.ar.png
+America TV.ar,America TV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/America%20TV.ar.png
+Animal Planet.ar,Animal Planet.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Animal%20Planet.ar.png
+Argentinísima Satelital.ar,Argentinísima Satelital.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Argentinísima%20Satelital.ar.png
+Atrescine.ar,Atrescine.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Atrescine.ar.png
+Atreseries.ar,Atreseries.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Atreseries.ar.png
+AXN.ar,AXN.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/AXN.ar.png
+C5N.ar,C5N.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/C5N.ar.png
+Canal 13 (Satelital).ar,Canal 13 (Satelital).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Canal%2013%20(Satelital).ar.png
+Canal 13.ar,Canal 13.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Canal%2013.ar.png
+Canal 26.ar,Canal 26.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Canal%2026.ar.png
+Canal 9.ar,Canal 9.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Canal%209.ar.png
+Canal á.ar,Canal á.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Canal%20á.ar.png
+Canal de la Ciudad.ar,Canal de la Ciudad.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Canal%20de%20la%20Ciudad.ar.png
+CineAr.ar,CineAr.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/CineAr.ar.png
+Cinecanal.ar,Cinecanal.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Cinecanal.ar.png
+Cinelatino.ar,Cinelatino.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Cinelatino.ar.png
+Cinemax (Sur).ar,Cinemax (Sur).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Cinemax%20(Sur).ar.png
+Cinemax.ar,Cinemax.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Cinemax.ar.png
+Ciudad Magazine.ar,Ciudad Magazine.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Ciudad%20Magazine.ar.png
+CN23.ar,CN23.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/CN23.ar.png
+Comedy Central.ar,Comedy Central.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Comedy%20Central.ar.png
+Cronica.ar,Cronica.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Cronica.ar.png
+DeporTV.ar,DeporTV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/DeporTV.ar.png
+Discovery Channel.ar,Discovery Channel.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20Channel.ar.png
+Discovery Civilization.ar,Discovery Civilization.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20Civilization.ar.png
+Discovery HD.ar,Discovery HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20HD.ar.png
+Discovery Home and Health.ar,Discovery Home and Health.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20Home%20and%20Health.ar.png
+Discovery Science.ar,Discovery Science.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20Science.ar.png
+Discovery Theater.ar,Discovery Theater.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20Theater.ar.png
+Discovery Turbo.ar,Discovery Turbo.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20Turbo.ar.png
+Discovery World.ar,Discovery World.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Discovery%20World.ar.png
+El Garage Tv.ar,El Garage Tv.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/El%20Garage%20Tv.ar.png
+El Gourmet.ar,El Gourmet.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/El%20Gourmet.ar.png
+Encuentro.ar,Encuentro.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Encuentro.ar.png
+ESPN 2.ar,ESPN 2.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/ESPN%202.ar.png
+ESPN 3.ar,ESPN 3.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/ESPN%203.ar.png
+ESPN Extra.ar,ESPN Extra.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/ESPN%20Extra.ar.png
+ESPN.ar,ESPN.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/ESPN.ar.png
+Food Network.ar,Food Network.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Food%20Network.ar.png
+FOX Sports 2.ar,FOX Sports 2.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/FOX%20Sports%202.ar.png
+FOX Sports 3.ar,FOX Sports 3.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/FOX%20Sports%203.ar.png
+FOX Sports Cono Sur.ar,FOX Sports Cono Sur.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/FOX%20Sports%20Cono%20Sur.ar.png
+FOX Sports HD.ar,FOX Sports HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/FOX%20Sports%20HD.ar.png
+FOX Sports Premium.ar,FOX Sports Premium.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/FOX%20Sports%20Premium.ar.png
+FX Movies.ar,FX Movies.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/FX%20Movies.ar.png
+FX.ar,FX.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/FX.ar.png
+Galicia TV.ar,Galicia TV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Galicia%20TV.ar.png
+Glitz.ar,Glitz.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Glitz.ar.png
+Gol TV.ar,Gol TV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Gol%20TV.ar.png
+Golden Edge.ar,Golden Edge.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Golden%20Edge.ar.png
+Golden.ar,Golden.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Golden.ar.png
+HBO 2 HD.ar,HBO 2 HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%202%20HD.ar.png
+HBO 2.ar,HBO 2.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%202.ar.png
+HBO Family HD.ar,HBO Family HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Family%20HD.ar.png
+HBO Family.ar,HBO Family.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Family.ar.png
+HBO HD.ar,HBO HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20HD.ar.png
+HBO Mundi.ar,HBO Mundi.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Mundi.ar.png
+HBO Oeste HD.ar,HBO Oeste HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Oeste%20HD.ar.png
+HBO Oeste.ar,HBO Oeste.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Oeste.ar.png
+HBO Plus (Panamericano HD).ar,HBO Plus (Panamericano HD).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Plus%20(Panamericano%20HD).ar.png
+HBO Plus Este.ar,HBO Plus Este.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Plus%20Este.ar.png
+HBO Plus Panregional HD.ar,HBO Plus Panregional HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Plus%20Panregional%20HD.ar.png
+HBO Plus Panregional.ar,HBO Plus Panregional.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Plus%20Panregional.ar.png
+HBO Pop.ar,HBO Pop.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Pop.ar.png
+HBO Signature HD.ar,HBO Signature HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Signature%20HD.ar.png
+HBO Signature.ar,HBO Signature.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Signature.ar.png
+HBO Xtreme (Oeste).ar,HBO Xtreme (Oeste).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Xtreme%20(Oeste).ar.png
+HBO Xtreme (Panamericano HD).ar,HBO Xtreme (Panamericano HD).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Xtreme%20(Panamericano%20HD).ar.png
+HBO Xtreme (Panregional HD).ar,HBO Xtreme (Panregional HD).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Xtreme%20(Panregional%20HD).ar.png
+HBO Xtreme.ar,HBO Xtreme.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO%20Xtreme.ar.png
+HBO.ar,HBO.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HBO.ar.png
+History 2.ar,History 2.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/History%202.ar.png
+History.ar,History.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/History.ar.png
+Hola TV.ar,Hola TV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Hola%20TV.ar.png
+HTV.ar,HTV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/HTV.ar.png
+Investigation Discovery.ar,Investigation Discovery.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Investigation%20Discovery.ar.png
+I-SAT.ar,I-SAT.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/I-SAT.ar.png
+Lifetime.ar,Lifetime.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Lifetime.ar.png
+LN+.ar,LN+.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/LN+.ar.png
+Más Chic.ar,Más Chic.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Más%20Chic.ar.png
+Metro.ar,Metro.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Metro.ar.png
+MTV Hits.ar,MTV Hits.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/MTV%20Hits.ar.png
+MTV.ar,MTV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/MTV.ar.png
+Musictop.ar,Musictop.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Musictop.ar.png
+National Geographic Wild.ar,National Geographic Wild.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/National%20Geographic%20Wild.ar.png
+National Geographic.ar,National Geographic.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/National%20Geographic.ar.png
+Net TV.ar,Net TV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Net%20TV.ar.png
+Paramount Network.ar,Paramount Network.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Paramount%20Network.ar.png
+Quiero.ar,Quiero.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Quiero.ar.png
+Sony HD.ar,Sony HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Sony%20HD.ar.png
+Sony.ar,Sony.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Sony.ar.png
+Space.ar,Space.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Space.ar.png
+Star Action (Oeste).ar,Star Action (Oeste).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Action%20(Oeste).ar.png
+Star Action HD.ar,Star Action HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Action%20HD.ar.png
+Star Action.ar,Star Action.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Action.ar.png
+Star Channel HD.ar,Star Channel HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Channel%20HD.ar.png
+Star Channel.ar,Star Channel.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Channel.ar.png
+Star Cinema.ar,Star Cinema.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Cinema.ar.png
+Star Classics.ar,Star Classics.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Classics.ar.png
+Star Comedy HD.ar,Star Comedy HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Comedy%20HD.ar.png
+Star Fun (Oeste).ar,Star Fun (Oeste).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Fun%20(Oeste).ar.png
+Star Fun HD.ar,Star Fun HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Fun%20HD.ar.png
+Star Fun.ar,Star Fun.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Fun.ar.png
+Star Hits HD.ar,Star Hits HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Hits%20HD.ar.png
+Star Hits.ar,Star Hits.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Hits.ar.png
+Star Life.ar,Star Life.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Life.ar.png
+Star Series (Oeste).ar,Star Series (Oeste).ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Series%20(Oeste).ar.png
+Star Series HD.ar,Star Series HD.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Series%20HD.ar.png
+Star Series.ar,Star Series.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Star%20Series.ar.png
+Studio Universal.ar,Studio Universal.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Studio%20Universal.ar.png
+Syfy.ar,Syfy.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Syfy.ar.png
+TBS.ar,TBS.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TBS.ar.png
+TCM.ar,TCM.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TCM.ar.png
+Telediario.ar,Telediario.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telediario.ar.png
+Telefe Cordoba.ar,Telefe Cordoba.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telefe%20Cordoba.ar.png
+Telefe Rosario.ar,Telefe Rosario.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telefe%20Rosario.ar.png
+Telefe Santa Fe.ar,Telefe Santa Fe.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telefe%20Santa%20Fe.ar.png
+Telefe.ar,Telefe.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telefe.ar.png
+Telehit.ar,Telehit.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telehit.ar.png
+Telemax.ar,Telemax.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telemax.ar.png
+Telemundo Internacional.ar,Telemundo Internacional.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Telemundo%20Internacional.ar.png
+teleSUR.ar,teleSUR.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/teleSUR.ar.png
+Television Pública.ar,Television Pública.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Television%20Pública.ar.png
+TLC.ar,TLC.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TLC.ar.png
+TN.ar,TN.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TN.ar.png
+TNT Series.ar,TNT Series.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TNT%20Series.ar.png
+TNT Sports.ar,TNT Sports.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TNT%20Sports.ar.png
+TNT.ar,TNT.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TNT.ar.png
+TV 5.ar,TV 5.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TV%205.ar.png
+TV Ciudad.ar,TV Ciudad.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TV%20Ciudad.ar.png
+TV Pública.ar,TV Pública.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TV%20Pública.ar.png
+TVE.ar,TVE.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TVE.ar.png
+TyC Sports 2.ar,TyC Sports 2.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TyC%20Sports%202.ar.png
+TyC Sports.ar,TyC Sports.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/TyC%20Sports.ar.png
+Universal TV.ar,Universal TV.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Universal%20TV.ar.png
+VH1 Mega Hits.ar,VH1 Mega Hits.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/VH1%20Mega%20Hits.ar.png
+VH1.ar,VH1.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/VH1.ar.png
+Viajar.ar,Viajar.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Viajar.ar.png
+Volver.ar,Volver.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Volver.ar.png
+Warner Channel.ar,Warner Channel.ar,https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/Warner%20Channel.ar.png
