@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 19/11/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 20/11/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="A24.ar">
     <display-name>A24.ar</display-name>
     <icon src="https://raw.githubusercontent.com/alacartaqr/miEPG/main/logos/A24.ar.png" />
@@ -1258,53 +1258,53 @@
 <title>Polemica en el bar</title>
 <desc>Un espacio que combina la esencia del clásico formato de mesa de debate y humor con un nuevo perfil político.</desc>
 </programme>
-<programme start="20251119022300 +0000" stop="20251119031800 +0000" channel="Animal Planet.ar">
+<programme start="20251119022300 +0000" stop="20251119031100 +0000" channel="Animal Planet.ar">
 <title>Operacion Tanzania</title>
 <sub-title>Un arma, un elefante</sub-title>
 <desc>Dos cazadores arrestados le informan al equipo que hay un grupo de cazadores de elefantes en la Reserva Natural de Rungwa, uno de los parques más peligrosos de Tanzania, por lo que ellos se someterán a una mision nocturna.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119031800 +0000" stop="20251119041300 +0000" channel="Animal Planet.ar">
-<title>Refugio en el granero</title>
-<sub-title>El club de la pelea de gallos</sub-title>
-<desc>Dan se dirige a Chicago para darles una segunda oportunidad a unos gallos de pelea. Además, el equipo se pregunta como recibirá el resto de la manada el mal comportamiento de DJ la vaca.</desc>
-<episode-num system="xmltv_ns">0.3.</episode-num>
-</programme>
-<programme start="20251119041300 +0000" stop="20251119050400 +0000" channel="Animal Planet.ar">
+<programme start="20251119031100 +0000" stop="20251119040000 +0000" channel="Animal Planet.ar">
 <title>Pesca mortal</title>
 <sub-title>Mujeres al timon</sub-title>
 <desc>En pleno invierno de opilio, Sig pone a Mandy al timon en mares embravecidos. Josh Harris intenta controlar un motín. Llega la nueva novia de Elliott pero la tripulacion no está muy contenta. Jack Larson siente toda la ira de Wild Bill.</desc>
 <episode-num system="xmltv_ns">9.11.</episode-num>
 </programme>
-<programme start="20251119050400 +0000" stop="20251119055500 +0000" channel="Animal Planet.ar">
+<programme start="20251119040000 +0000" stop="20251119044900 +0000" channel="Animal Planet.ar">
 <title>Pescadores al límite</title>
 <sub-title>No pierdas la cabeza</sub-title>
 <desc>Los mahseer están cerca de la extincion. Su último fuerte se encuentra en las selvas de Borneo, en un área controlada por los Dayak. Los muchachos deberán arriesgar sus vidas para descubrir si es cierto.</desc>
 <episode-num system="xmltv_ns">0.4.</episode-num>
 </programme>
-<programme start="20251119055500 +0000" stop="20251119064600 +0000" channel="Animal Planet.ar">
+<programme start="20251119044900 +0000" stop="20251119053900 +0000" channel="Animal Planet.ar">
 <title>Cazadores de dinosaurios</title>
 <sub-title>La gran familia de dinosaurios</sub-title>
 <desc>Clayton Phipps y su hijo Luke arriesgaron todo por un peligroso fosil enterrado a nueve metros bajo tierra. Los Harris deciden ir por todo para preparar su cráneo T-Rex multimillonario.</desc>
 <episode-num system="xmltv_ns">1.0.</episode-num>
 </programme>
-<programme start="20251119064600 +0000" stop="20251119073100 +0000" channel="Animal Planet.ar">
+<programme start="20251119053900 +0000" stop="20251119063000 +0000" channel="Animal Planet.ar">
 <title>Monstruos de río: aguas desconocidas</title>
 <sub-title>El monstruo del lago de Italia</sub-title>
 <desc>Jeremy Wade, pescador y aventurero, viaja al lago de Garda en el norte de Italia para investigar un pez monstruoso del siglo XVI y descubrir que secretos esconde el lago.</desc>
 <episode-num system="xmltv_ns">0.3.</episode-num>
 </programme>
-<programme start="20251119073100 +0000" stop="20251119082100 +0000" channel="Animal Planet.ar">
+<programme start="20251119063000 +0000" stop="20251119072000 +0000" channel="Animal Planet.ar">
 <title>Operacion Tanzania</title>
 <sub-title>Un arma, un elefante</sub-title>
 <desc>Dos cazadores arrestados le informan al equipo que hay un grupo de cazadores de elefantes en la Reserva Natural de Rungwa, uno de los parques más peligrosos de Tanzania, por lo que ellos se someterán a una mision nocturna.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119082100 +0000" stop="20251119090000 +0000" channel="Animal Planet.ar">
+<programme start="20251119072000 +0000" stop="20251119081000 +0000" channel="Animal Planet.ar">
 <title>Refugio en el granero</title>
 <sub-title>El club de la pelea de gallos</sub-title>
 <desc>Dan se dirige a Chicago para darles una segunda oportunidad a unos gallos de pelea. Además, el equipo se pregunta como recibirá el resto de la manada el mal comportamiento de DJ la vaca.</desc>
 <episode-num system="xmltv_ns">0.3.</episode-num>
+</programme>
+<programme start="20251119081000 +0000" stop="20251119090000 +0000" channel="Animal Planet.ar">
+<title>Pesca mortal</title>
+<sub-title>Mujeres al timon</sub-title>
+<desc>En pleno invierno de opilio, Sig pone a Mandy al timon en mares embravecidos. Josh Harris intenta controlar un motín. Llega la nueva novia de Elliott pero la tripulacion no está muy contenta. Jack Larson siente toda la ira de Wild Bill.</desc>
+<episode-num system="xmltv_ns">9.11.</episode-num>
 </programme>
 <programme start="20251119090000 +0000" stop="20251119095000 +0000" channel="Animal Planet.ar">
 <title>Dentro de Wild Frank</title>
@@ -1317,18 +1317,18 @@
 <desc>Andy está solo y aislado en una isla del Pacífico, sobre la cual se cierne una feroz tormenta tropical. Tendrá que recurrir a su arsenal tecnologico para encontrar alimentos y sobrevivir.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119104000 +0000" stop="20251119113000 +0000" channel="Animal Planet.ar">
+<programme start="20251119104000 +0000" stop="20251119113100 +0000" channel="Animal Planet.ar">
 <title>Un vínculo especial</title>
 <sub-title>Comprometida con los canguros</sub-title>
 <desc>Rae Harvey formo un gran vínculo con Kanku mientras dirigía un santuario de canguros en Australia.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="Animal Planet.ar">
+<programme start="20251119113100 +0000" stop="20251119120100 +0000" channel="Animal Planet.ar">
 <title>SOS animal</title>
 <desc>La bombera civil y veterinaria Carla Sassi y la bombera Marilym Nascimento viajan a la zona rural de Minas Gerais para investigar una grave denuncia: 40 perros encerrados sin comida adecuada para cazar animales salvajes.</desc>
 <episode-num system="xmltv_ns">1.4.</episode-num>
 </programme>
-<programme start="20251119120000 +0000" stop="20251119123000 +0000" channel="Animal Planet.ar">
+<programme start="20251119120100 +0000" stop="20251119123000 +0000" channel="Animal Planet.ar">
 <title>E.V.: Emergencias veterinarias</title>
 <sub-title>Labial rodesiano</sub-title>
 <desc>Una fiesta de graduacion acaba en tragedia cuando el perrito de la familia huye de la casa y termina atropellado por un auto.</desc>
@@ -1364,60 +1364,60 @@
 <desc>Jeremy Wade, pescador y aventurero, viaja al lago de Garda en el norte de Italia para investigar un pez monstruoso del siglo XVI y descubrir que secretos esconde el lago.</desc>
 <episode-num system="xmltv_ns">0.3.</episode-num>
 </programme>
-<programme start="20251119162000 +0000" stop="20251119171000 +0000" channel="Animal Planet.ar">
+<programme start="20251119162000 +0000" stop="20251119171100 +0000" channel="Animal Planet.ar">
 <title>Operacion Tanzania</title>
 <sub-title>Un arma, un elefante</sub-title>
 <desc>Dos cazadores arrestados le informan al equipo que hay un grupo de cazadores de elefantes en la Reserva Natural de Rungwa, uno de los parques más peligrosos de Tanzania, por lo que ellos se someterán a una mision nocturna.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119171000 +0000" stop="20251119180000 +0000" channel="Animal Planet.ar">
+<programme start="20251119171100 +0000" stop="20251119180200 +0000" channel="Animal Planet.ar">
 <title>Refugio en el granero</title>
 <sub-title>El club de la pelea de gallos</sub-title>
 <desc>Dan se dirige a Chicago para darles una segunda oportunidad a unos gallos de pelea. Además, el equipo se pregunta como recibirá el resto de la manada el mal comportamiento de DJ la vaca.</desc>
 <episode-num system="xmltv_ns">0.3.</episode-num>
 </programme>
-<programme start="20251119180000 +0000" stop="20251119185000 +0000" channel="Animal Planet.ar">
+<programme start="20251119180200 +0000" stop="20251119185100 +0000" channel="Animal Planet.ar">
 <title>Pesca mortal</title>
 <sub-title>Mujeres al timon</sub-title>
 <desc>En pleno invierno de opilio, Sig pone a Mandy al timon en mares embravecidos. Josh Harris intenta controlar un motín. Llega la nueva novia de Elliott pero la tripulacion no está muy contenta. Jack Larson siente toda la ira de Wild Bill.</desc>
 <episode-num system="xmltv_ns">9.11.</episode-num>
 </programme>
-<programme start="20251119185000 +0000" stop="20251119194000 +0000" channel="Animal Planet.ar">
+<programme start="20251119185100 +0000" stop="20251119194100 +0000" channel="Animal Planet.ar">
 <title>El acuario</title>
 <sub-title>La sorpresa de Big Momma</sub-title>
 <desc>Un leon marino llamado Finn tiene problemas en el estomago y el equipo le da un refrigerio que va a ayudar a descubrir la causa. El dúo de boas, Ripley y Ridley reciben una casa nueva.</desc>
 <episode-num system="xmltv_ns">1.4.</episode-num>
 </programme>
-<programme start="20251119194000 +0000" stop="20251119203000 +0000" channel="Animal Planet.ar">
+<programme start="20251119194100 +0000" stop="20251119203200 +0000" channel="Animal Planet.ar">
 <title>El acuario</title>
 <sub-title>El campamento de verano de las nutrias de mar</sub-title>
 <desc>El equipo está decidido a lograr que Gibson, la nutria de mar, se independice y se separe de su compañera Mara. Además Thor, la anguila morena, prueba que es una artista del escapismo.</desc>
 <episode-num system="xmltv_ns">1.3.</episode-num>
 </programme>
-<programme start="20251119203000 +0000" stop="20251119212000 +0000" channel="Animal Planet.ar">
+<programme start="20251119203200 +0000" stop="20251119212300 +0000" channel="Animal Planet.ar">
 <title>Los Irwin</title>
 <sub-title>La carrera para salvar a los ornitorrincos</sub-title>
 <desc>En el zoologico de Australia, Terri le da la bienvenida a una pequeña chita de Sudáfrica. Mientras tanto, Robert intentará rescatar a un ornitorrinco y Bindi se prepara para conocer a Bert, una cría de koala.</desc>
 <episode-num system="xmltv_ns">0.8.</episode-num>
 </programme>
-<programme start="20251119212000 +0000" stop="20251119221000 +0000" channel="Animal Planet.ar">
+<programme start="20251119212300 +0000" stop="20251119221200 +0000" channel="Animal Planet.ar">
 <title>Con el agua al cuello</title>
 <sub-title>El acuario de Fernando Vargas</sub-title>
 <desc>Fernando Vargas es tri campeon de boxeo y les encargo a Wayde y a Brett un acuario con la forma de un guante de boxeo para su gimnasio en Las Vegas.</desc>
 <episode-num system="xmltv_ns">7.4.</episode-num>
 </programme>
-<programme start="20251119221000 +0000" stop="20251119230000 +0000" channel="Animal Planet.ar">
+<programme start="20251119221200 +0000" stop="20251119230200 +0000" channel="Animal Planet.ar">
 <title>Con el agua al cuello</title>
 <sub-title>El acuario sorpresa de Howie Mandel</sub-title>
 <desc>Howie Mandel se contacto con el equipo porque quiere otro acuario. Esta vez lo quiere para su compañía, allí ya hay un acuario, pero necesita una renovacion.</desc>
 <episode-num system="xmltv_ns">5.0.</episode-num>
 </programme>
-<programme start="20251119230000 +0000" stop="20251119235000 +0000" channel="Animal Planet.ar">
+<programme start="20251119230200 +0000" stop="20251119235100 +0000" channel="Animal Planet.ar">
 <title>Dentro de Wild Frank</title>
 <desc>Frank viaja a Chiang Mai para ver a una madre elefante que acaba de dar a luz. Tanto la madre como el niño parecen gozar de buena salud.</desc>
 <episode-num system="xmltv_ns">0.4.</episode-num>
 </programme>
-<programme start="20251119235000 +0000" stop="20251120004000 +0000" channel="Animal Planet.ar">
+<programme start="20251119235100 +0000" stop="20251120004000 +0000" channel="Animal Planet.ar">
 <title>Ciencia al rescate</title>
 <sub-title>El bayou negro</sub-title>
 <desc>En un pantano de Luisiana, un sitio peligroso plagado de caimanes y otros depredadores mortales, Andy echa mano del contenido de su mochila para buscar agua, recoger alimentos y tratar de volver a la civilizacion.</desc>
@@ -1429,13 +1429,13 @@
 <desc>Jay Sargent visita las Islas Turcas y Caicos, es allí donde desarrolla una amistad con un delfín mular llamado Jojo. Es una amistad que ha durado más de dos decadas. Pero cuando a Jay le diagnostican cáncer, no podrá verlo nuevamente.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251120013000 +0000" stop="20251120022000 +0000" channel="Animal Planet.ar">
+<programme start="20251120013000 +0000" stop="20251120021900 +0000" channel="Animal Planet.ar">
 <title>El último de su especie</title>
 <sub-title>La gigante de las Galápagos</sub-title>
 <desc>Forrest se encuentra en Galápagos en busca de la tortuga de Fernandina, un animal que solo fue visto una vez, cien años atrás. Las pistas están aquí, junto a una gran cantidad de especies increíbles.</desc>
 <episode-num system="xmltv_ns">1.0.</episode-num>
 </programme>
-<programme start="20251120022000 +0000" stop="20251121022000 +0000" channel="Animal Planet.ar">
+<programme start="20251120021900 +0000" stop="20251121021900 +0000" channel="Animal Planet.ar">
 <title>Wild Frank en India</title>
 <sub-title>Snake Bite</sub-title>
 <desc>Tras atravesar las montañas, Frank llega a Chitwan, un parque natural en el que habitan animales de todas las especies. Allí atrapa un gavial en el agua, pero el cocodrilo no está de buen humor y ataca.</desc>
@@ -2824,11 +2824,11 @@
 <title>La increíble vida de Walter Mitty</title>
 <desc>Cuando su trabajo y el de su compañero se ven amenazados, Walter entra en accion en el mundo real y se embarca en un viaje alrededor del planeta, que se convierte en la aventura más extraordinaria que jamás podría haber imaginado.</desc>
 </programme>
-<programme start="20251119231500 +0000" stop="20251120010000 +0000" channel="Cinecanal.ar">
+<programme start="20251119231500 +0000" stop="20251120005900 +0000" channel="Cinecanal.ar">
 <title>Ghosting: el espíritu de la Navidad</title>
 <desc>Jess tiene la mejor primera cita de su vida, pero de repente muere en un accidente automovilístico de regreso a casa.</desc>
 </programme>
-<programme start="20251120010000 +0000" stop="20251120025100 +0000" channel="Cinecanal.ar">
+<programme start="20251120005900 +0000" stop="20251120025100 +0000" channel="Cinecanal.ar">
 <title>Recuerdame</title>
 <desc>Con la ayuda de su complice y su habilidosa nieta, Claude intenta reconectarse con el antiguo amor de su vida Lilian, quien ahora tiene alzheimer y vive en una residencia para ancianos muy cerca de el.</desc>
 </programme>
@@ -2995,75 +2995,100 @@
 <desc>Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
 <episode-num system="xmltv_ns">.14.</episode-num>
 </programme>
-<programme start="20251119120000 +0000" stop="20251119135200 +0000" channel="Cinemax.ar">
+<programme start="20251119120000 +0000" stop="20251119121300 +0000" channel="Cinemax.ar">
+<title>Hollywood One on One</title>
+<desc>Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+<episode-num system="xmltv_ns">.57.</episode-num>
+</programme>
+<programme start="20251119121300 +0000" stop="20251119122900 +0000" channel="Cinemax.ar">
+<title>Hollywood One on One</title>
+<desc>Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+<episode-num system="xmltv_ns">.58.</episode-num>
+</programme>
+<programme start="20251119122900 +0000" stop="20251119142300 +0000" channel="Cinemax.ar">
 <title>Estafa telefonica</title>
 <desc>Seo-joon pierde todo por una estafa telefonica y se infiltra en una organizacion en China para conocer a Kwak Pro, el planificador detrás de este sistema de estafas.</desc>
 </programme>
-<programme start="20251119135200 +0000" stop="20251119153700 +0000" channel="Cinemax.ar">
+<programme start="20251119142300 +0000" stop="20251119155800 +0000" channel="Cinemax.ar">
 <title>Gamer: juego letal</title>
 <desc>Apartado de su familia, encarcelado y obligado a luchar contra su voluntad, Kable debe sobrevivir para poder escapar de un juego y liberar a su familia, recuperar su identidad y salvar a la humanidad de la despiadada tecnología de Castle.</desc>
 </programme>
-<programme start="20251119153700 +0000" stop="20251119173700 +0000" channel="Cinemax.ar">
+<programme start="20251119155800 +0000" stop="20251119175100 +0000" channel="Cinemax.ar">
 <title>El vengador</title>
 <desc>Un hombre cuya esposa e hija fueron asesinadas, pone en jaque al sistema judicial al amenazar con matar a los implicados en el juicio. Cuando comienza a cumplir su palabra desde la cárcel, nadie sabe como detenerlo.</desc>
 </programme>
-<programme start="20251119173700 +0000" stop="20251119194900 +0000" channel="Cinemax.ar">
+<programme start="20251119175100 +0000" stop="20251119194900 +0000" channel="Cinemax.ar">
 <title>300</title>
 <desc>Una alianza de ciudades-estado retuvo al enemigo en uno de los enfrentamientos más famosos de la historia. El emperador Jerjes dirigio un ejercito de más de cien mil hombres, y este fue confrontado por trescientos espartanos.</desc>
 </programme>
-<programme start="20251119194900 +0000" stop="20251119213300 +0000" channel="Cinemax.ar">
+<programme start="20251119194900 +0000" stop="20251119213200 +0000" channel="Cinemax.ar">
 <title>Como entrenar a tu dragon 2</title>
 <desc>Durante un viaje, Hipo y los suyos descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, y se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.</desc>
 </programme>
-<programme start="20251119213300 +0000" stop="20251119230700 +0000" channel="Cinemax.ar">
+<programme start="20251119213200 +0000" stop="20251119230700 +0000" channel="Cinemax.ar">
 <title>Gamer: juego letal</title>
 <desc>Apartado de su familia, encarcelado y obligado a luchar contra su voluntad, Kable debe sobrevivir para poder escapar de un juego y liberar a su familia, recuperar su identidad y salvar a la humanidad de la despiadada tecnología de Castle.</desc>
 </programme>
-<programme start="20251119230700 +0000" stop="20251120010400 +0000" channel="Cinemax.ar">
+<programme start="20251119230700 +0000" stop="20251120010300 +0000" channel="Cinemax.ar">
 <title>Geo-Tormenta</title>
 <desc>Tras un fallo en cadena de la mayor parte de los satelites meteorologicos, un diseñador de satelites deberá viajar al espacio junto a su hermano, con quien hace años que no se habla, para salvar al planeta de una terrible tormenta.</desc>
 </programme>
-<programme start="20251120010400 +0000" stop="20251120030000 +0000" channel="Cinemax.ar">
+<programme start="20251120010300 +0000" stop="20251120030000 +0000" channel="Cinemax.ar">
 <title>El vengador</title>
 <desc>Un hombre cuya esposa e hija fueron asesinadas, pone en jaque al sistema judicial al amenazar con matar a los implicados en el juicio. Cuando comienza a cumplir su palabra desde la cárcel, nadie sabe como detenerlo.</desc>
 </programme>
-<programme start="20251120030000 +0000" stop="20251120050100 +0000" channel="Cinemax.ar">
+<programme start="20251120030000 +0000" stop="20251120050200 +0000" channel="Cinemax.ar">
 <title>300</title>
 <desc>Una alianza de ciudades-estado retuvo al enemigo en uno de los enfrentamientos más famosos de la historia. El emperador Jerjes dirigio un ejercito de más de cien mil hombres, y este fue confrontado por trescientos espartanos.</desc>
 </programme>
-<programme start="20251120050100 +0000" stop="20251120065500 +0000" channel="Cinemax.ar">
+<programme start="20251120050200 +0000" stop="20251120065700 +0000" channel="Cinemax.ar">
 <title>Inmortales</title>
 <desc>Enloquecido por el poder, el rey Hiperion quema Grecia mientras busca el arco Epiro, arma con la que podrá liberar a los Titanes y dominar la Tierra. Pero la esperanza renace cuando Zeus encomienda a Teseo la mision de acabar con el rey.</desc>
 </programme>
-<programme start="20251120065500 +0000" stop="20251120085800 +0000" channel="Cinemax.ar">
+<programme start="20251120065700 +0000" stop="20251120085700 +0000" channel="Cinemax.ar">
 <title>Warcraft: el primer encuentro de dos mundos</title>
 <desc>El pacífico reino de Azeroth está a punto de entrar en guerra para enfrentarse a unos terribles invasores. Al abrirse un portal que conecta ambos mundos, un ejercito se enfrenta a la destruccion, y el otro, a la extincion.</desc>
 </programme>
-<programme start="20251120085800 +0000" stop="20251120120000 +0000" channel="Cinemax.ar">
+<programme start="20251120085700 +0000" stop="20251120105200 +0000" channel="Cinemax.ar">
 <title>Los últimos caballeros</title>
 <desc>Un guerrero caído se levanta en contra de un gobernante sádico y corrupto para vengar la muerte de su deshonrado amo en esta aventura acerca de la lealtad, el honor y la venganza.</desc>
 </programme>
-<programme start="20251120120000 +0000" stop="20251120121700 +0000" channel="Cinemax.ar">
-<title>El codigo Da Vinci</title>
-<desc>El afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el crimen de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas que podrían conectarse con una misteriosa sociedad.</desc>
+<programme start="20251120105200 +0000" stop="20251120113100 +0000" channel="Cinemax.ar">
+<title>Hollywood One on One</title>
+<desc>Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+<episode-num system="xmltv_ns">.18.</episode-num>
 </programme>
-<programme start="20251120121700 +0000" stop="20251120145800 +0000" channel="Cinemax.ar">
+<programme start="20251120113100 +0000" stop="20251120114600 +0000" channel="Cinemax.ar">
+<title>Hollywood One on One</title>
+<desc>Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+<episode-num system="xmltv_ns">.51.</episode-num>
+</programme>
+<programme start="20251120114600 +0000" stop="20251120120000 +0000" channel="Cinemax.ar">
+<title>Hollywood One on One</title>
+<desc>Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+<episode-num system="xmltv_ns">.52.</episode-num>
+</programme>
+<programme start="20251120120000 +0000" stop="20251120131600 +0000" channel="Cinemax.ar">
+<title>El año del perro</title>
+<desc>Jon es un periodista que relata sus experiencias como dueño de perros: tiene dos labradores, que encajan perfectamente con su rutina. Cuando la vida de Jon atraviesa una crisis, decide adoptar un Collie y ambos se ayudarán el uno al otro.</desc>
+</programme>
+<programme start="20251120131600 +0000" stop="20251120153900 +0000" channel="Cinemax.ar">
 <title>Ángeles y demonios</title>
 <desc>El profesor de simbología religiosa Robert Langdon se ve pronto sumido en la búsqueda de secretos de una antigua secta satánica denominada Illuminati y del arma más mortífera de la humanidad, la "antimateria".</desc>
 </programme>
-<programme start="20251120145800 +0000" stop="20251120170700 +0000" channel="Cinemax.ar">
+<programme start="20251120153900 +0000" stop="20251120174700 +0000" channel="Cinemax.ar">
 <title>Inferno</title>
 <desc>Robert Langdon se encuentra tras el rastro de pistas conectadas con Dante. Cuando despierta con amnesia en un hospital italiano, hará equipo con Sienna Brooks. Juntos recorrerán Europa en una carrera para desbaratar una conspiracion global.</desc>
 </programme>
-<programme start="20251120170700 +0000" stop="20251120191900 +0000" channel="Cinemax.ar">
+<programme start="20251120174700 +0000" stop="20251120195100 +0000" channel="Cinemax.ar">
 <title>En el corazon del mar</title>
 <desc>Owen Chase y su tripulacion del barco ballenero Essex sobrevivieron luego de que el barco chocara con una enorme ballena blanca. Owen, obsesionado con la idea de darle caza, se enfrenta a las tormentas, al hambre y a la desesperacion.</desc>
 </programme>
-<programme start="20251120191900 +0000" stop="20251120212600 +0000" channel="Cinemax.ar">
+<programme start="20251120195100 +0000" stop="20251120214500 +0000" channel="Cinemax.ar">
 <title>La brújula dorada</title>
 <desc>Lyra Belacqua es una niña de doce años que hará un largo viaje para intentar salvar a su amigo Roger. En el camino se encontrará con todo tipo de extrañas criaturas, brujas y otros animales de un universo paralelo.</desc>
 </programme>
-<programme start="20251120212600 +0000" stop="20251121001400 +0000" channel="Cinemax.ar">
+<programme start="20251120214500 +0000" stop="20251121002500 +0000" channel="Cinemax.ar">
 <title>El codigo Da Vinci</title>
 <desc>El afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el crimen de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas que podrían conectarse con una misteriosa sociedad.</desc>
 </programme>
@@ -4203,37 +4228,43 @@
 <desc>Un cliente recluta a Dave en una mision para hacer realidad sus sueños de un viaje por carretera. Compro una reproduccion mecánicamente defectuosa del Bluesmobile, y prepararlo para el camino será una prueba del temple de la tripulacion.</desc>
 <episode-num system="xmltv_ns">8.4.</episode-num>
 </programme>
-<programme start="20251119033300 +0000" stop="20251119042400 +0000" channel="Discovery Channel.ar">
+<programme start="20251119033300 +0000" stop="20251119033700 +0000" channel="Discovery Channel.ar">
 <title>Cámara policial</title>
 <sub-title>Pelear, huir o correr</sub-title>
 <desc>En Ohio, la policía se enfrenta a una situacion de rehenes con un fugitivo peligroso. En Maryland, los ladrones armados son sorprendidos en el acto y huyen.</desc>
 <episode-num system="xmltv_ns">4.14.</episode-num>
 </programme>
-<programme start="20251119042400 +0000" stop="20251119051000 +0000" channel="Discovery Channel.ar">
+<programme start="20251119033700 +0000" stop="20251119042800 +0000" channel="Discovery Channel.ar">
+<title>Cámara policial</title>
+<sub-title>Pelear, huir o correr</sub-title>
+<desc>En Ohio, la policía se enfrenta a una situacion de rehenes con un fugitivo peligroso. En Maryland, los ladrones armados son sorprendidos en el acto y huyen.</desc>
+<episode-num system="xmltv_ns">4.14.</episode-num>
+</programme>
+<programme start="20251119042800 +0000" stop="20251119051300 +0000" channel="Discovery Channel.ar">
 <title>Cámara policial</title>
 <sub-title>A unos segundos de la muerte</sub-title>
 <desc>Un asaltante armado inicia un tiroteo mortal en un autobús urbano en Maryland. Luego, un agente de policía corre para salvar a un hombre en silla de ruedas. En Ohio, los agentes de policía intentan rescatar a una mujer de un incendio.</desc>
 <episode-num system="xmltv_ns">3.2.</episode-num>
 </programme>
-<programme start="20251119051000 +0000" stop="20251119055600 +0000" channel="Discovery Channel.ar">
+<programme start="20251119051300 +0000" stop="20251119055800 +0000" channel="Discovery Channel.ar">
 <title>Cámara policial</title>
 <sub-title>Rehenes</sub-title>
 <desc>En Colorado, un imprevisible exconvicto armado toma a su familia como rehenes y amenaza con matarlos a todos. En Florida, el robo de una gasolinera se convierte rápidamente en una persecucion y deja a un oficial luchando por su vida.</desc>
 <episode-num system="xmltv_ns">3.1.</episode-num>
 </programme>
-<programme start="20251119055600 +0000" stop="20251119064200 +0000" channel="Discovery Channel.ar">
+<programme start="20251119055800 +0000" stop="20251119064400 +0000" channel="Discovery Channel.ar">
 <title>Cámara policial</title>
 <sub-title>Arma humeante</sub-title>
 <desc>En Florida, un hombre muere de un disparo en el pecho. Parece un asesinato, pero la investigacion da un giro sorprendente. En Oklahoma, una persecucion a gran velocidad se convierte en una mision de rescate.</desc>
 <episode-num system="xmltv_ns">3.4.</episode-num>
 </programme>
-<programme start="20251119064200 +0000" stop="20251119072800 +0000" channel="Discovery Channel.ar">
+<programme start="20251119064400 +0000" stop="20251119072900 +0000" channel="Discovery Channel.ar">
 <title>Cámara policial</title>
 <sub-title>Crisis</sub-title>
 <desc>En Utah, un control de tráfico se convierte en un accidente y, en Georgia, una mujer da a luz durante un accidente de tráfico, pero nadie encuentra al bebe. Además, en Oklahoma, un intento de robo conduce al atraco de una furgoneta.</desc>
 <episode-num system="xmltv_ns">3.9.</episode-num>
 </programme>
-<programme start="20251119072800 +0000" stop="20251119081400 +0000" channel="Discovery Channel.ar">
+<programme start="20251119072900 +0000" stop="20251119081400 +0000" channel="Discovery Channel.ar">
 <title>Cámara policial</title>
 <sub-title>Punto de ignicion</sub-title>
 <desc>Un agente encubierto que compra drogas y armas a las bandas de Florida se encuentra en el extremo equivocado de un arma.</desc>
@@ -4245,115 +4276,115 @@
 <desc>En Nuevo Mexico, una madre desesperada se aferra a su coche cuando un ladron se lo roba con sus bebes dentro. Justo antes del amanecer en Arizona, deben localizar a un individuo descubierto dentro de una casa de empeño llena de armas.</desc>
 <episode-num system="xmltv_ns">4.2.</episode-num>
 </programme>
-<programme start="20251119090000 +0000" stop="20251119095100 +0000" channel="Discovery Channel.ar">
+<programme start="20251119090000 +0000" stop="20251119094700 +0000" channel="Discovery Channel.ar">
 <title>Cámara policial</title>
 <sub-title>El cazador y los cazados</sub-title>
 <desc>En Nuevo Mexico, una madre desesperada se aferra a su coche cuando un ladron se lo roba con sus bebes dentro. Justo antes del amanecer en Arizona, deben localizar a un individuo descubierto dentro de una casa de empeño llena de armas.</desc>
 <episode-num system="xmltv_ns">4.2.</episode-num>
 </programme>
-<programme start="20251119095100 +0000" stop="20251119103900 +0000" channel="Discovery Channel.ar">
+<programme start="20251119094700 +0000" stop="20251119103200 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>El enjambre</sub-title>
 <desc>Un exmilitar y una madre se enfrentan a la selva de Panamá. Este sitio disfrazado de paraíso se encuentra acechado por abejas asesinas y otros insectos agresivos portadores de enfermedades.</desc>
 <episode-num system="xmltv_ns">1.9.</episode-num>
 </programme>
-<programme start="20251119103900 +0000" stop="20251119112700 +0000" channel="Discovery Channel.ar">
+<programme start="20251119103200 +0000" stop="20251119111700 +0000" channel="Discovery Channel.ar">
 <title>Mexicánicos</title>
 <sub-title>Chilebús a pedido del público</sub-title>
 <desc>Fernando Rubio fabrico el chilebús en el taller. La creacion de Martín es el exito de los paseos por las calles de Tequila.</desc>
 <episode-num system="xmltv_ns">5.10.</episode-num>
 </programme>
-<programme start="20251119112700 +0000" stop="20251119121500 +0000" channel="Discovery Channel.ar">
+<programme start="20251119111700 +0000" stop="20251119120300 +0000" channel="Discovery Channel.ar">
 <title>Mexicánicos</title>
 <sub-title>Lupillo Rivera y arenero</sub-title>
 <desc>El famoso cantante de música regional, Lupillo Rivera, quiere restaurar una camioneta GMC 47. El conocimiento de la materia que ostenta el cantante y el hecho de ser una celebridad, le agregan un condimento de presion a a este proyecto.</desc>
 <episode-num system="xmltv_ns">1.0.</episode-num>
 </programme>
-<programme start="20251119121500 +0000" stop="20251119130600 +0000" channel="Discovery Channel.ar">
+<programme start="20251119120300 +0000" stop="20251119125000 +0000" channel="Discovery Channel.ar">
 <title>Expedicion a lo desconocido</title>
 <sub-title>Heroes desaparecidos de la Segunda Guerra Mundial</sub-title>
 <desc>Josh investiga los restos del contraataque de Pearl Harbor, que destruyo una base japonesa en el Pacífico Sur. Participa del Proyecto Recuperacion para encontrar 40 aviones y 200 heroes estadounidenses perdidos en la Operacion Hailstone.</desc>
 <episode-num system="xmltv_ns">7.12.</episode-num>
 </programme>
-<programme start="20251119130600 +0000" stop="20251119135700 +0000" channel="Discovery Channel.ar">
+<programme start="20251119125000 +0000" stop="20251119134100 +0000" channel="Discovery Channel.ar">
 <title>Fiebre del oro: río revuelto</title>
 <sub-title>Infierno desde los cielos</sub-title>
 <desc>Un tifon monstruoso se acerca al arroyo Nugget, amenazando con arrancarle el oro a Dustin. Con ambos equipos a punto de encontrar el oro que les cambiará la vida, están preparados para mantenerse firmes y luchar contra la tormenta.</desc>
 <episode-num system="xmltv_ns">5.15.</episode-num>
 </programme>
-<programme start="20251119135700 +0000" stop="20251119144800 +0000" channel="Discovery Channel.ar">
+<programme start="20251119134100 +0000" stop="20251119143300 +0000" channel="Discovery Channel.ar">
 <title>Fiebre del oro: río revuelto</title>
 <sub-title>El día del juicio final</sub-title>
 <desc>El destino de la temporada minera depende completamente de las proximas 72 horas.</desc>
 <episode-num system="xmltv_ns">5.16.</episode-num>
 </programme>
-<programme start="20251119144800 +0000" stop="20251119163000 +0000" channel="Discovery Channel.ar">
+<programme start="20251119143300 +0000" stop="20251119161800 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>El valle de los exiliados</sub-title>
 <desc>Al comenzar el desafío de 40 días, hay cocodrilos y leopardos circulando por ahí. Un sobreviviente es exiliado rápidamente.</desc>
 <episode-num system="xmltv_ns">4.0.</episode-num>
 </programme>
-<programme start="20251119163000 +0000" stop="20251119172100 +0000" channel="Discovery Channel.ar">
+<programme start="20251119161800 +0000" stop="20251119170900 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>Cocodrilos</sub-title>
 <desc>La temperatura aumenta y los expertos en supervivencia intentan cazar. En Camp Murder Puddle, el grupo se enfrenta a un ataque nocturno de cocodrilos agresivos.</desc>
 <episode-num system="xmltv_ns">4.1.</episode-num>
 </programme>
-<programme start="20251119172100 +0000" stop="20251119181200 +0000" channel="Discovery Channel.ar">
+<programme start="20251119170900 +0000" stop="20251119180100 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>El asesino</sub-title>
 <desc>Luego de irse por su cuenta, Kate sufre las consecuencias de las condiciones de África. Bulent, que está muy hambriento, logra atrapar una presa, pero ¿podrá Makani dejar de lado sus creencias veganas?</desc>
 <episode-num system="xmltv_ns">4.2.</episode-num>
 </programme>
-<programme start="20251119181200 +0000" stop="20251119190300 +0000" channel="Discovery Channel.ar">
+<programme start="20251119180100 +0000" stop="20251119185400 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>Sudáfrica: Julien y Jennifer</sub-title>
 <desc>En el norte de Sudáfrica, dos participantes franceses tendrán que sobrevivir a los desafíos meteorologicos y el peligro de los animales salvajes de la sabana africana.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119190300 +0000" stop="20251119195400 +0000" channel="Discovery Channel.ar">
+<programme start="20251119185400 +0000" stop="20251119194700 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>Sudáfrica: Gabrielle y Patrick</sub-title>
 <desc>En el norte de Sudáfrica, a doce mil kilometros de Francia, Patrick y Gabrielle deberán sobrevivir durante veintiún días en condiciones climáticas extremas.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251119195400 +0000" stop="20251119204500 +0000" channel="Discovery Channel.ar">
+<programme start="20251119194700 +0000" stop="20251119203900 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>Colombia: Pascale y Eddy</sub-title>
 <desc>En el norte de Colombia, dos desconocidos tendrán que enfrentarse a la especie animal más venenosa del planeta, en condiciones climáticas desafiantes. ¿Podrán afrontar este entorno hostil, abandonados y desnudos?</desc>
 <episode-num system="xmltv_ns">0.3.</episode-num>
 </programme>
-<programme start="20251119204500 +0000" stop="20251119222700 +0000" channel="Discovery Channel.ar">
+<programme start="20251119203900 +0000" stop="20251119222300 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>Deseo de venganza</sub-title>
 <desc>Al ver huellas de nutrias, Matt quiere su venganza y su proxima comida. Jeff utiliza su ingenio. Las habilidades de pesca de Amber le permiten que su equipo este bien alimentado, pero una lesion amenaza su desafío.</desc>
 <episode-num system="xmltv_ns">6.4.</episode-num>
 </programme>
-<programme start="20251119222700 +0000" stop="20251120000900 +0000" channel="Discovery Channel.ar">
+<programme start="20251119222300 +0000" stop="20251120000800 +0000" channel="Discovery Channel.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>El dolor de EJ</sub-title>
 <desc>Una herida amenaza el desafío y la virilidad de EJ. Jeff y Steven son acosados por un oso negro territorial. Rylie, Matt y Ryan consiguen su segunda gran victoria. Max y Gary planean una incursion arriesgada.</desc>
 <episode-num system="xmltv_ns">6.5.</episode-num>
 </programme>
-<programme start="20251120000900 +0000" stop="20251120010000 +0000" channel="Discovery Channel.ar">
+<programme start="20251120000800 +0000" stop="20251120010000 +0000" channel="Discovery Channel.ar">
 <title>Fiebre del oro: río revuelto</title>
 <sub-title>Hombre al agua</sub-title>
 <desc>Siguiendo la pista del oro, la tripulacion de Dustin se acerca a una gran recompensa. En una mision de reabastecimiento a la civilizacion, Wes desaparece tras una caída mortal desde el hidrodeslizador al río embravecido.</desc>
 <episode-num system="xmltv_ns">7.2.</episode-num>
 </programme>
-<programme start="20251120010000 +0000" stop="20251120015100 +0000" channel="Discovery Channel.ar">
+<programme start="20251120010000 +0000" stop="20251120015200 +0000" channel="Discovery Channel.ar">
 <title>Norte salvaje</title>
 <sub-title>¡Maldito lobo!</sub-title>
 <desc>Desde hace varios siglos, la caza es un modo de vida en la implacable frontera oriental: para ganar dinero, hay que cazar. Un lobo gris siembra el caos en las trampas de Megan y Brian.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251120015100 +0000" stop="20251120024200 +0000" channel="Discovery Channel.ar">
+<programme start="20251120015200 +0000" stop="20251120024500 +0000" channel="Discovery Channel.ar">
 <title>Hombres del bosque al límite</title>
 <sub-title>Regresar de entre los muertos</sub-title>
 <desc>Jared se muda a un campamento maderero abandonado y hace una apuesta de $250.000 dolares en un sitio remoto y peligroso que hundirá o salvará su negocio. Ross está encargado de trasladar el campamento flotante hacia el interior del bosque.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251120024200 +0000" stop="20251121024200 +0000" channel="Discovery Channel.ar">
+<programme start="20251120024500 +0000" stop="20251121024500 +0000" channel="Discovery Channel.ar">
 <title>Hombres del bosque al límite</title>
 <sub-title>Si no soportas el calor</sub-title>
 <desc>A medida que se acerca la temporada de incendios, Jared siente el calor y se apura para recuperar troncos antes de que sea demasiado tarde. En Grizzly River, Jim y Rob ayudan a despejar el camino hacia un último grupo de árboles.</desc>
@@ -4365,37 +4396,43 @@
 <desc>Un cliente recluta a Dave en una mision para hacer realidad sus sueños de un viaje por carretera. Compro una reproduccion mecánicamente defectuosa del Bluesmobile, y prepararlo para el camino será una prueba del temple de la tripulacion.</desc>
 <episode-num system="xmltv_ns">8.4.</episode-num>
 </programme>
-<programme start="20251119033300 +0000" stop="20251119042400 +0000" channel="Discovery HD.ar">
+<programme start="20251119033300 +0000" stop="20251119033700 +0000" channel="Discovery HD.ar">
 <title>Cámara policial</title>
 <sub-title>Pelear, huir o correr</sub-title>
 <desc>En Ohio, la policía se enfrenta a una situacion de rehenes con un fugitivo peligroso. En Maryland, los ladrones armados son sorprendidos en el acto y huyen.</desc>
 <episode-num system="xmltv_ns">4.14.</episode-num>
 </programme>
-<programme start="20251119042400 +0000" stop="20251119051000 +0000" channel="Discovery HD.ar">
+<programme start="20251119033700 +0000" stop="20251119042800 +0000" channel="Discovery HD.ar">
+<title>Cámara policial</title>
+<sub-title>Pelear, huir o correr</sub-title>
+<desc>En Ohio, la policía se enfrenta a una situacion de rehenes con un fugitivo peligroso. En Maryland, los ladrones armados son sorprendidos en el acto y huyen.</desc>
+<episode-num system="xmltv_ns">4.14.</episode-num>
+</programme>
+<programme start="20251119042800 +0000" stop="20251119051300 +0000" channel="Discovery HD.ar">
 <title>Cámara policial</title>
 <sub-title>A unos segundos de la muerte</sub-title>
 <desc>Un asaltante armado inicia un tiroteo mortal en un autobús urbano en Maryland. Luego, un agente de policía corre para salvar a un hombre en silla de ruedas. En Ohio, los agentes de policía intentan rescatar a una mujer de un incendio.</desc>
 <episode-num system="xmltv_ns">3.2.</episode-num>
 </programme>
-<programme start="20251119051000 +0000" stop="20251119055600 +0000" channel="Discovery HD.ar">
+<programme start="20251119051300 +0000" stop="20251119055800 +0000" channel="Discovery HD.ar">
 <title>Cámara policial</title>
 <sub-title>Rehenes</sub-title>
 <desc>En Colorado, un imprevisible exconvicto armado toma a su familia como rehenes y amenaza con matarlos a todos. En Florida, el robo de una gasolinera se convierte rápidamente en una persecucion y deja a un oficial luchando por su vida.</desc>
 <episode-num system="xmltv_ns">3.1.</episode-num>
 </programme>
-<programme start="20251119055600 +0000" stop="20251119064200 +0000" channel="Discovery HD.ar">
+<programme start="20251119055800 +0000" stop="20251119064400 +0000" channel="Discovery HD.ar">
 <title>Cámara policial</title>
 <sub-title>Arma humeante</sub-title>
 <desc>En Florida, un hombre muere de un disparo en el pecho. Parece un asesinato, pero la investigacion da un giro sorprendente. En Oklahoma, una persecucion a gran velocidad se convierte en una mision de rescate.</desc>
 <episode-num system="xmltv_ns">3.4.</episode-num>
 </programme>
-<programme start="20251119064200 +0000" stop="20251119072800 +0000" channel="Discovery HD.ar">
+<programme start="20251119064400 +0000" stop="20251119072900 +0000" channel="Discovery HD.ar">
 <title>Cámara policial</title>
 <sub-title>Crisis</sub-title>
 <desc>En Utah, un control de tráfico se convierte en un accidente y, en Georgia, una mujer da a luz durante un accidente de tráfico, pero nadie encuentra al bebe. Además, en Oklahoma, un intento de robo conduce al atraco de una furgoneta.</desc>
 <episode-num system="xmltv_ns">3.9.</episode-num>
 </programme>
-<programme start="20251119072800 +0000" stop="20251119081400 +0000" channel="Discovery HD.ar">
+<programme start="20251119072900 +0000" stop="20251119081400 +0000" channel="Discovery HD.ar">
 <title>Cámara policial</title>
 <sub-title>Punto de ignicion</sub-title>
 <desc>Un agente encubierto que compra drogas y armas a las bandas de Florida se encuentra en el extremo equivocado de un arma.</desc>
@@ -4407,168 +4444,173 @@
 <desc>En Nuevo Mexico, una madre desesperada se aferra a su coche cuando un ladron se lo roba con sus bebes dentro. Justo antes del amanecer en Arizona, deben localizar a un individuo descubierto dentro de una casa de empeño llena de armas.</desc>
 <episode-num system="xmltv_ns">4.2.</episode-num>
 </programme>
-<programme start="20251119090000 +0000" stop="20251119095100 +0000" channel="Discovery HD.ar">
+<programme start="20251119090000 +0000" stop="20251119094700 +0000" channel="Discovery HD.ar">
 <title>Cámara policial</title>
 <sub-title>El cazador y los cazados</sub-title>
 <desc>En Nuevo Mexico, una madre desesperada se aferra a su coche cuando un ladron se lo roba con sus bebes dentro. Justo antes del amanecer en Arizona, deben localizar a un individuo descubierto dentro de una casa de empeño llena de armas.</desc>
 <episode-num system="xmltv_ns">4.2.</episode-num>
 </programme>
-<programme start="20251119095100 +0000" stop="20251119103900 +0000" channel="Discovery HD.ar">
+<programme start="20251119094700 +0000" stop="20251119103200 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>El enjambre</sub-title>
 <desc>Un exmilitar y una madre se enfrentan a la selva de Panamá. Este sitio disfrazado de paraíso se encuentra acechado por abejas asesinas y otros insectos agresivos portadores de enfermedades.</desc>
 <episode-num system="xmltv_ns">1.9.</episode-num>
 </programme>
-<programme start="20251119103900 +0000" stop="20251119112700 +0000" channel="Discovery HD.ar">
+<programme start="20251119103200 +0000" stop="20251119111700 +0000" channel="Discovery HD.ar">
 <title>Mexicánicos</title>
 <sub-title>Chilebús a pedido del público</sub-title>
 <desc>Fernando Rubio fabrico el chilebús en el taller. La creacion de Martín es el exito de los paseos por las calles de Tequila.</desc>
 <episode-num system="xmltv_ns">5.10.</episode-num>
 </programme>
-<programme start="20251119112700 +0000" stop="20251119121500 +0000" channel="Discovery HD.ar">
+<programme start="20251119111700 +0000" stop="20251119120300 +0000" channel="Discovery HD.ar">
 <title>Mexicánicos</title>
 <sub-title>Lupillo Rivera y arenero</sub-title>
 <desc>El famoso cantante de música regional, Lupillo Rivera, quiere restaurar una camioneta GMC 47. El conocimiento de la materia que ostenta el cantante y el hecho de ser una celebridad, le agregan un condimento de presion a a este proyecto.</desc>
 <episode-num system="xmltv_ns">1.0.</episode-num>
 </programme>
-<programme start="20251119121500 +0000" stop="20251119130600 +0000" channel="Discovery HD.ar">
+<programme start="20251119120300 +0000" stop="20251119125000 +0000" channel="Discovery HD.ar">
 <title>Expedicion a lo desconocido</title>
 <sub-title>Heroes desaparecidos de la Segunda Guerra Mundial</sub-title>
 <desc>Josh investiga los restos del contraataque de Pearl Harbor, que destruyo una base japonesa en el Pacífico Sur. Participa del Proyecto Recuperacion para encontrar 40 aviones y 200 heroes estadounidenses perdidos en la Operacion Hailstone.</desc>
 <episode-num system="xmltv_ns">7.12.</episode-num>
 </programme>
-<programme start="20251119130600 +0000" stop="20251119135700 +0000" channel="Discovery HD.ar">
+<programme start="20251119125000 +0000" stop="20251119134100 +0000" channel="Discovery HD.ar">
 <title>Fiebre del oro: río revuelto</title>
 <sub-title>Infierno desde los cielos</sub-title>
 <desc>Un tifon monstruoso se acerca al arroyo Nugget, amenazando con arrancarle el oro a Dustin. Con ambos equipos a punto de encontrar el oro que les cambiará la vida, están preparados para mantenerse firmes y luchar contra la tormenta.</desc>
 <episode-num system="xmltv_ns">5.15.</episode-num>
 </programme>
-<programme start="20251119135700 +0000" stop="20251119144800 +0000" channel="Discovery HD.ar">
+<programme start="20251119134100 +0000" stop="20251119143300 +0000" channel="Discovery HD.ar">
 <title>Fiebre del oro: río revuelto</title>
 <sub-title>El día del juicio final</sub-title>
 <desc>El destino de la temporada minera depende completamente de las proximas 72 horas.</desc>
 <episode-num system="xmltv_ns">5.16.</episode-num>
 </programme>
-<programme start="20251119144800 +0000" stop="20251119163000 +0000" channel="Discovery HD.ar">
+<programme start="20251119143300 +0000" stop="20251119161800 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>El valle de los exiliados</sub-title>
 <desc>Al comenzar el desafío de 40 días, hay cocodrilos y leopardos circulando por ahí. Un sobreviviente es exiliado rápidamente.</desc>
 <episode-num system="xmltv_ns">4.0.</episode-num>
 </programme>
-<programme start="20251119163000 +0000" stop="20251119172100 +0000" channel="Discovery HD.ar">
+<programme start="20251119161800 +0000" stop="20251119170900 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>Cocodrilos</sub-title>
 <desc>La temperatura aumenta y los expertos en supervivencia intentan cazar. En Camp Murder Puddle, el grupo se enfrenta a un ataque nocturno de cocodrilos agresivos.</desc>
 <episode-num system="xmltv_ns">4.1.</episode-num>
 </programme>
-<programme start="20251119172100 +0000" stop="20251119181200 +0000" channel="Discovery HD.ar">
+<programme start="20251119170900 +0000" stop="20251119180100 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>El asesino</sub-title>
 <desc>Luego de irse por su cuenta, Kate sufre las consecuencias de las condiciones de África. Bulent, que está muy hambriento, logra atrapar una presa, pero ¿podrá Makani dejar de lado sus creencias veganas?</desc>
 <episode-num system="xmltv_ns">4.2.</episode-num>
 </programme>
-<programme start="20251119181200 +0000" stop="20251119190300 +0000" channel="Discovery HD.ar">
+<programme start="20251119180100 +0000" stop="20251119185400 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>Sudáfrica: Julien y Jennifer</sub-title>
 <desc>En el norte de Sudáfrica, dos participantes franceses tendrán que sobrevivir a los desafíos meteorologicos y el peligro de los animales salvajes de la sabana africana.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119190300 +0000" stop="20251119195400 +0000" channel="Discovery HD.ar">
+<programme start="20251119185400 +0000" stop="20251119194700 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>Sudáfrica: Gabrielle y Patrick</sub-title>
 <desc>En el norte de Sudáfrica, a doce mil kilometros de Francia, Patrick y Gabrielle deberán sobrevivir durante veintiún días en condiciones climáticas extremas.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251119195400 +0000" stop="20251119204500 +0000" channel="Discovery HD.ar">
+<programme start="20251119194700 +0000" stop="20251119203900 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo</title>
 <sub-title>Colombia: Pascale y Eddy</sub-title>
 <desc>En el norte de Colombia, dos desconocidos tendrán que enfrentarse a la especie animal más venenosa del planeta, en condiciones climáticas desafiantes. ¿Podrán afrontar este entorno hostil, abandonados y desnudos?</desc>
 <episode-num system="xmltv_ns">0.3.</episode-num>
 </programme>
-<programme start="20251119204500 +0000" stop="20251119222700 +0000" channel="Discovery HD.ar">
+<programme start="20251119203900 +0000" stop="20251119222300 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>Deseo de venganza</sub-title>
 <desc>Al ver huellas de nutrias, Matt quiere su venganza y su proxima comida. Jeff utiliza su ingenio. Las habilidades de pesca de Amber le permiten que su equipo este bien alimentado, pero una lesion amenaza su desafío.</desc>
 <episode-num system="xmltv_ns">6.4.</episode-num>
 </programme>
-<programme start="20251119222700 +0000" stop="20251120000900 +0000" channel="Discovery HD.ar">
+<programme start="20251119222300 +0000" stop="20251120000800 +0000" channel="Discovery HD.ar">
 <title>Supervivencia al desnudo: edicion extrema</title>
 <sub-title>El dolor de EJ</sub-title>
 <desc>Una herida amenaza el desafío y la virilidad de EJ. Jeff y Steven son acosados por un oso negro territorial. Rylie, Matt y Ryan consiguen su segunda gran victoria. Max y Gary planean una incursion arriesgada.</desc>
 <episode-num system="xmltv_ns">6.5.</episode-num>
 </programme>
-<programme start="20251120000900 +0000" stop="20251120010000 +0000" channel="Discovery HD.ar">
+<programme start="20251120000800 +0000" stop="20251120010000 +0000" channel="Discovery HD.ar">
 <title>Fiebre del oro: río revuelto</title>
 <sub-title>Hombre al agua</sub-title>
 <desc>Siguiendo la pista del oro, la tripulacion de Dustin se acerca a una gran recompensa. En una mision de reabastecimiento a la civilizacion, Wes desaparece tras una caída mortal desde el hidrodeslizador al río embravecido.</desc>
 <episode-num system="xmltv_ns">7.2.</episode-num>
 </programme>
-<programme start="20251120010000 +0000" stop="20251120015100 +0000" channel="Discovery HD.ar">
+<programme start="20251120010000 +0000" stop="20251120015200 +0000" channel="Discovery HD.ar">
 <title>Norte salvaje</title>
 <sub-title>¡Maldito lobo!</sub-title>
 <desc>Desde hace varios siglos, la caza es un modo de vida en la implacable frontera oriental: para ganar dinero, hay que cazar. Un lobo gris siembra el caos en las trampas de Megan y Brian.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251120015100 +0000" stop="20251120024200 +0000" channel="Discovery HD.ar">
+<programme start="20251120015200 +0000" stop="20251120024500 +0000" channel="Discovery HD.ar">
 <title>Hombres del bosque al límite</title>
 <sub-title>Regresar de entre los muertos</sub-title>
 <desc>Jared se muda a un campamento maderero abandonado y hace una apuesta de $250.000 dolares en un sitio remoto y peligroso que hundirá o salvará su negocio. Ross está encargado de trasladar el campamento flotante hacia el interior del bosque.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251120024200 +0000" stop="20251121024200 +0000" channel="Discovery HD.ar">
+<programme start="20251120024500 +0000" stop="20251121024500 +0000" channel="Discovery HD.ar">
 <title>Hombres del bosque al límite</title>
 <sub-title>Si no soportas el calor</sub-title>
 <desc>A medida que se acerca la temporada de incendios, Jared siente el calor y se apura para recuperar troncos antes de que sea demasiado tarde. En Grizzly River, Jim y Rob ayudan a despejar el camino hacia un último grupo de árboles.</desc>
 <episode-num system="xmltv_ns">0.6.</episode-num>
 </programme>
-<programme start="20251119023000 +0000" stop="20251119040000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119023000 +0000" stop="20251119031500 +0000" channel="Discovery Home and Health.ar">
 <title>MasterChef Celebrity</title>
 <desc>Semana de homenaje a los jurados: los participantes se dividirán en dos equipos y solo uno avanzará a la Noche de Beneficio.</desc>
 <episode-num system="xmltv_ns">3.20.</episode-num>
 </programme>
-<programme start="20251119040000 +0000" stop="20251119045000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119031500 +0000" stop="20251119044600 +0000" channel="Discovery Home and Health.ar">
+<title>MasterChef Celebrity</title>
+<desc>La tension y el suspenso se apoderan de la noche mientras las celebridades eligen entre dos caminos para evitar la eliminacion.</desc>
+<episode-num system="xmltv_ns">3.18.</episode-num>
+</programme>
+<programme start="20251119044600 +0000" stop="20251119053300 +0000" channel="Discovery Home and Health.ar">
 <title>Dra. Sandra Lee: especialista en piel</title>
 <sub-title>El cerebro</sub-title>
 <desc>Lattyse nacio con un crecimiento misterioso sobre la ceja. Robert tiene un crecimiento del tamaño de un tomate en el trasero y le genera dolor. Además, Sharon tiene un quiste debajo del pecho.</desc>
 <episode-num system="xmltv_ns">2.13.</episode-num>
 </programme>
-<programme start="20251119045000 +0000" stop="20251119053800 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119053300 +0000" stop="20251119061600 +0000" channel="Discovery Home and Health.ar">
 <title>Emergencias sexuales</title>
 <sub-title>La motocicleta del caos</sub-title>
 <desc>Es día de mudanza para una joven pareja, pero cuando deciden despedirse de su departamento de una manera sexy, terminan en urgencias; una mujer lleva al límite a su entrenador.</desc>
 <episode-num system="xmltv_ns">.16.</episode-num>
 </programme>
-<programme start="20251119053800 +0000" stop="20251119062600 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119061600 +0000" stop="20251119070000 +0000" channel="Discovery Home and Health.ar">
 <title>Emergencias sexuales</title>
 <sub-title>Sorpresa de cumpleaños</sub-title>
 <desc>La sorpresa de cumpleaños que prepara una mujer para su esposo deja a todos atonitos; un medico no sale de su asombro al atender a una mujer con dolor abdominal; la mamá de John interrumpe un encuentro sexual y averguenza a su novia.</desc>
 <episode-num system="xmltv_ns">0.17.</episode-num>
 </programme>
-<programme start="20251119062600 +0000" stop="20251119071500 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119070000 +0000" stop="20251119074300 +0000" channel="Discovery Home and Health.ar">
 <title>Mi cuerpo, mi desafío</title>
 <sub-title>Unidas por la cabeza</sub-title>
 <desc>Juan Pedro llego a pesar seiscientos kilos y era el hombre más gordo del mundo. Por su parte, Letizia, de 52 años, no siente dolor físico y Charina y Chiara son unas gemelas de siete años que nacieron unidas por la cabeza.</desc>
 <episode-num system="xmltv_ns">5.9.</episode-num>
 </programme>
-<programme start="20251119071500 +0000" stop="20251119083000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119074300 +0000" stop="20251119083900 +0000" channel="Discovery Home and Health.ar">
 <title>Dra. Sandra Lee: datos explosivos</title>
 <sub-title>El tercer ojo</sub-title>
 <desc>Jaclyn tiene un bulto en la cabeza que le produce problemas emocionales. Shane tiene un crecimiento entre los ojos que puede traerle problemas en su trabajo. Brittany ha consultado a varios medicos por las llagas en su cuerpo sin respuesta.</desc>
 <episode-num system="xmltv_ns">3.11.</episode-num>
 </programme>
-<programme start="20251119083000 +0000" stop="20251119090000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119083900 +0000" stop="20251119090000 +0000" channel="Discovery Home and Health.ar">
 <title>Rescatando propiedades</title>
 <sub-title>Espacio ilegal</sub-title>
 <desc>Un dueño quiere vender su casa de tres habitaciones y dos baños en Garden Grove, California. La casa cuenta con un diseño espacioso, pero una de las habitaciones puede tener un permiso ilegal.</desc>
 <episode-num system="xmltv_ns">6.4.</episode-num>
 </programme>
-<programme start="20251119090000 +0000" stop="20251119101500 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119090000 +0000" stop="20251119102400 +0000" channel="Discovery Home and Health.ar">
 <title>Cirugías: al borde de la vida</title>
 <sub-title>Poner todo en su lugar</sub-title>
 <desc>Los cirujanos no solo tienen que eliminar enfermedades potencialmente mortales, sino tambien recomponer a sus pacientes para garantizar su supervivencia. El cirujano, Aman Coonar, asume un caso desafiante que pone a prueba su habilidad y ex</desc>
 <episode-num system="xmltv_ns">0.15.</episode-num>
 </programme>
-<programme start="20251119101500 +0000" stop="20251119113000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119102400 +0000" stop="20251119113000 +0000" channel="Discovery Home and Health.ar">
 <title>Cirugías: al borde de la vida</title>
 <sub-title>Dedicacion total</sub-title>
 <desc>El neurocirujano de Addenbrooke, Rod Laing, realiza la que probablemente sea la operacion de columna más difícil que existe.</desc>
@@ -4582,122 +4624,116 @@
 <title>Infomerciales</title>
 <desc>Observa todos los productos electrodomesticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce como obtenerlos de la manera más rápida y sencilla posible.</desc>
 </programme>
-<programme start="20251119123000 +0000" stop="20251119132400 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="Discovery Home and Health.ar">
 <title>Infomerciales</title>
 <desc>Observa todos los productos electrodomesticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce como obtenerlos de la manera más rápida y sencilla posible.</desc>
 </programme>
-<programme start="20251119132400 +0000" stop="20251119141000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119130000 +0000" stop="20251119134700 +0000" channel="Discovery Home and Health.ar">
 <title>Vestido de novia</title>
 <sub-title>Mamá, has dicho lo suficiente</sub-title>
 <desc>Es la primera cita del nuevo asesor Peter y es una maravilla. A la madre de Christie no le gustan los escotes ni la energía de ciertos vestidos. Monique, alias Boujetta, es tan exigente que tiene a Mindy y a Randy perplejos.</desc>
 <episode-num system="xmltv_ns">19.8.</episode-num>
 </programme>
-<programme start="20251119141000 +0000" stop="20251119145600 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119134700 +0000" stop="20251119143300 +0000" channel="Discovery Home and Health.ar">
 <title>Dra. Sandra Lee: datos explosivos</title>
 <sub-title>La gran explosion</sub-title>
 <desc>¡Descubre todos los nuevos y jugosos datos y secretos detrás de cámaras! ¿Podrá la dra. Lee ayudar a Reginald y quitarles los extraños bultos que tiene en la nuca?</desc>
 <episode-num system="xmltv_ns">2.1.</episode-num>
 </programme>
-<programme start="20251119145600 +0000" stop="20251119154200 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119143300 +0000" stop="20251119152000 +0000" channel="Discovery Home and Health.ar">
 <title>Dra. Sandra Lee: especialista en piel</title>
 <sub-title>Los hombros</sub-title>
 <desc>Stacey tiene un bulto en el hombro que no le permite ser la maestra divertida que siempre fue. Matthew tiene un sarpullido extraño en la piel y teme que sea peligroso. Mark tiene un crecimiento que afecta su vida sexual.</desc>
 <episode-num system="xmltv_ns">5.6.</episode-num>
 </programme>
-<programme start="20251119154200 +0000" stop="20251119162800 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119152000 +0000" stop="20251119160900 +0000" channel="Discovery Home and Health.ar">
 <title>La familia Baldwin</title>
 <sub-title>Glengarry Glen Floss</sub-title>
 <desc>Se acerca el final del verano y es hora de comenzar a prepararse para la vuelta al colegio, e Hilaria planea un viaje a la ciudad para llevar a los siete niños al dentista.</desc>
 <episode-num system="xmltv_ns">0.4.</episode-num>
 </programme>
-<programme start="20251119162800 +0000" stop="20251119171400 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119160900 +0000" stop="20251119165800 +0000" channel="Discovery Home and Health.ar">
 <title>La familia Baldwin</title>
 <sub-title>Mision imposible: Nacion alfombra</sub-title>
 <desc>Alec e Hilaria intentan enseñar a sus perros a ir al baño, ya que han arruinado sus alfombras. Despues de años de lucha o huida, es hora de divertirse mientras la pareja comienza a bailar salsa.</desc>
 <episode-num system="xmltv_ns">0.5.</episode-num>
 </programme>
-<programme start="20251119171400 +0000" stop="20251119180000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119165800 +0000" stop="20251119174600 +0000" channel="Discovery Home and Health.ar">
 <title>Campeonato de reposteros: delicias de primavera</title>
 <sub-title>Amor retro</sub-title>
 <desc>¡La cocina luce tan genial con su cambio de imagen retro! Jesse Palmer celebra los años 50 y 60 mientras desafía a los pasteleros a hacer pastelitos de refrescos y pasteles extrapeludos dedicados a todos esos amantes del estilo.</desc>
 <episode-num system="xmltv_ns">8.5.</episode-num>
 </programme>
-<programme start="20251119180000 +0000" stop="20251119184600 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119174600 +0000" stop="20251119183500 +0000" channel="Discovery Home and Health.ar">
 <title>Campeonato de reposteros: delicias de primavera</title>
 <sub-title>Las cosas que horneamos por amor</sub-title>
 <desc>No hay mejor manera de demostrar que estás enamorado que con deliciosos postres horneados con el corazon.</desc>
 <episode-num system="xmltv_ns">8.6.</episode-num>
 </programme>
-<programme start="20251119184600 +0000" stop="20251119193200 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119183500 +0000" stop="20251119192400 +0000" channel="Discovery Home and Health.ar">
 <title>Campeonato de reposteros: delicias de primavera</title>
 <sub-title>El amor alrededor del mundo</sub-title>
 <desc>El show se globaliza cuando Jesse Palmer encarga a los pasteleros que celebren su amor por los sabores del mundo.</desc>
 <episode-num system="xmltv_ns">8.7.</episode-num>
 </programme>
-<programme start="20251119193200 +0000" stop="20251119201800 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119192400 +0000" stop="20251119201100 +0000" channel="Discovery Home and Health.ar">
 <title>Dra. Sandra Lee: especialista en piel</title>
 <sub-title>Piel zombi</sub-title>
 <desc>Kenny nacio con una rara condicion que hace que le crezcan cientos de bultos por todo el cuerpo. Ebonee cubre los pequeños bultos de sus ojos con gafas de sol.</desc>
 <episode-num system="xmltv_ns">4.0.</episode-num>
 </programme>
-<programme start="20251119201800 +0000" stop="20251119210400 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119201100 +0000" stop="20251119210000 +0000" channel="Discovery Home and Health.ar">
 <title>Dra. Sandra Lee: especialista en piel</title>
 <sub-title>Piernas con fugas</sub-title>
 <desc>La Dra. Lee tiene una sorpresa para Paula, que tiene piernas supurantes, malolientes y adoloridas. Mike necesita deshacerse del bulto que tiene en la cabeza y Amanda se siente inadecuada para su esposo debido al crecimiento en su espalda.</desc>
 <episode-num system="xmltv_ns">8.9.</episode-num>
 </programme>
-<programme start="20251119210400 +0000" stop="20251119215000 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119210000 +0000" stop="20251119215000 +0000" channel="Discovery Home and Health.ar">
 <title>Dra. Sandra Lee: especialista en piel</title>
 <sub-title>Protuberancias del demonio</sub-title>
 <desc>Alyse ha estado sufriendo de un sarpullido ardiente y siente que no puede vivir así. Por su parte, Terry se ha vuelto demasiado grande para sus pantalones debido a un doloroso lipoma en el glúteo.</desc>
 <episode-num system="xmltv_ns">4.10.</episode-num>
 </programme>
-<programme start="20251119215000 +0000" stop="20251119223600 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119215000 +0000" stop="20251119224000 +0000" channel="Discovery Home and Health.ar">
 <title>Transformando casas con los El Moussa</title>
 <sub-title>Cuando renovar se pone extraño</sub-title>
 <desc>Heather compra una casa en Torrance, California, sin ser vista, y asume el desafío de diseñarla ella sola. Sin embargo, los problemas surgen cuando la contratista quiere liberar la propiedad de su energía negativa.</desc>
 <episode-num system="xmltv_ns">1.8.</episode-num>
 </programme>
-<programme start="20251119223600 +0000" stop="20251119232400 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119224000 +0000" stop="20251119233000 +0000" channel="Discovery Home and Health.ar">
 <title>Transformando casas con los El Moussa</title>
 <sub-title>Renovacion sobre el presupuesto</sub-title>
 <desc>Tarek y Heather llevan sus habilidades de renovacion a Yorba Linda, California. Están buscando conquistar un lote de dos mil metros, pero esta enorme casa puede ser más trabajo de lo que esperaban.</desc>
 <episode-num system="xmltv_ns">1.9.</episode-num>
 </programme>
-<programme start="20251119232400 +0000" stop="20251120001200 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251119233000 +0000" stop="20251120001900 +0000" channel="Discovery Home and Health.ar">
 <title>Renovaciones en Detroit</title>
 <sub-title>La casa de Londres</sub-title>
 <desc>Keith y Evan revitalizan una casa de Detroit con el estilo chic de Londres. Incorporando laton, negros y un toque de rojo a traves de las iconicas cabinas telefonicas, resucitan una casa ruinosa más llena de basura que de tesoros.</desc>
 <episode-num system="xmltv_ns">4.0.</episode-num>
 </programme>
-<programme start="20251120001200 +0000" stop="20251120005900 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251120001900 +0000" stop="20251120010800 +0000" channel="Discovery Home and Health.ar">
 <title>Remodelaciones con celebridades</title>
 <sub-title>El Condominio sorpresa de Lisa Kudrow</sub-title>
 <desc>La prima y mejor amiga de Lisa Kudrow, ha pasado por unos años difíciles. Aún así, ella continúa abriendo su corazon y su hogar a las mascotas rescatadas.</desc>
 <episode-num system="xmltv_ns">3.4.</episode-num>
 </programme>
-<programme start="20251120005900 +0000" stop="20251120014600 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251120010800 +0000" stop="20251120015700 +0000" channel="Discovery Home and Health.ar">
 <title>Remodelaciones con celebridades</title>
 <sub-title>El de Courteney Cox</sub-title>
 <desc>Courteney Cox invita a Jonathan y Drew a ayudar a su amiga que está esperando un bebe. Courteney quiere renovar por completo las áreas principales para crear funcionalidad y belleza, e incluso se está inspirando en el diseño de su propia co</desc>
 <episode-num system="xmltv_ns">8.4.</episode-num>
 </programme>
-<programme start="20251120014600 +0000" stop="20251120014800 +0000" channel="Discovery Home and Health.ar">
-<title>Dra. Sandra Lee: datos explosivos</title>
-<sub-title>Quistes</sub-title>
-<desc>Por fin se revelan jugosos datos y secretos entre bastidores. Tameru es una drag queen cuya miríada de quistes son un problema. Además, Devon cree que su piel desigual puede deberse a una histerectomía.</desc>
-<episode-num system="xmltv_ns">4.4.</episode-num>
-</programme>
-<programme start="20251120014800 +0000" stop="20251120023300 +0000" channel="Discovery Home and Health.ar">
+<programme start="20251120015700 +0000" stop="20251120022600 +0000" channel="Discovery Home and Health.ar">
 <title>Sobre esta piel</title>
 <sub-title>Deise y Rosana</sub-title>
 <desc>Raquel y Margarita ayudan a una mujer que se libro de una relacion abusiva y a una madre que desea cubrir una vieja cicatriz.</desc>
 <episode-num system="xmltv_ns">0.9.</episode-num>
 </programme>
-<programme start="20251120023300 +0000" stop="20251121023300 +0000" channel="Discovery Home and Health.ar">
-<title>MasterChef Celebrity</title>
-<desc>Los nuevos participantes compiten en dos equipos: los ganadores irán por los beneficios y los perdedores a la Noche de Última Chance.</desc>
-<episode-num system="xmltv_ns">3.21.</episode-num>
+<programme start="20251120022600 +0000" stop="20251121022600 +0000" channel="Discovery Home and Health.ar">
+<title>Cirugías milagrosas</title>
+<desc>Un campeon de boxeo se prepara para una de las peleas más grandes de su carrera en Nueva York. La doctora Cathy es fanática del boxeo y acepta tratarlo.</desc>
+<episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
 <programme start="20251119030000 +0000" stop="20251119034800 +0000" channel="Discovery Science.ar">
 <title>Reyes de la construccion</title>
@@ -5335,19 +5371,19 @@
 <desc>Wild Bill arriesga todo en una nueva estrategia de pesca, con la esperanza de tener una buena ganancia. Sean y Casey forman una alianza. El Cornelia Marie sufre las consecuencias del mal clima.</desc>
 <episode-num system="xmltv_ns">13.2.</episode-num>
 </programme>
-<programme start="20251120172400 +0000" stop="20251120181200 +0000" channel="Discovery Theater.ar">
+<programme start="20251120172400 +0000" stop="20251120181600 +0000" channel="Discovery Theater.ar">
 <title>Mega carga</title>
 <sub-title>Hardcore Haul</sub-title>
 <desc>En Texas, un equipo trabaja con suma concentracion para descargar una columna de más de setecientas toneladas. En Londres, un empleado de ferrocarril envía veintidos vagones cargados de cemento.</desc>
 <episode-num system="xmltv_ns">0.5.</episode-num>
 </programme>
-<programme start="20251120181200 +0000" stop="20251120190000 +0000" channel="Discovery Theater.ar">
+<programme start="20251120181600 +0000" stop="20251120190500 +0000" channel="Discovery Theater.ar">
 <title>Clandestinos</title>
 <sub-title>Destilería mexicana</sub-title>
 <desc>Mark, Digger y Tim son los jueces cuando destiladores amateurs de los dos lados de la ley compiten para preparar mezcal, una bebida mexicana.</desc>
 <episode-num system="xmltv_ns">10.13.</episode-num>
 </programme>
-<programme start="20251120190000 +0000" stop="20251120194800 +0000" channel="Discovery Theater.ar">
+<programme start="20251120190500 +0000" stop="20251120194800 +0000" channel="Discovery Theater.ar">
 <title>El museo embrujado</title>
 <sub-title>El espejo asesino</sub-title>
 <desc>Un joven violinista que intenta ganar una beca para una prestigiosa academia de música se enfrenta a un espíritu malvado que está atrapado en una reliquia familiar.</desc>
@@ -5365,12 +5401,12 @@
 <desc>Don Wildman investiga el experimento de un ganador del Premio Nobel, que se arriesgo frente a los nazis. Luego, una creativa operacion encubierta que puso fin a la carrera de un notorio jefe mafioso.</desc>
 <episode-num system="xmltv_ns">11.10.</episode-num>
 </programme>
-<programme start="20251120212400 +0000" stop="20251120221200 +0000" channel="Discovery Theater.ar">
+<programme start="20251120212400 +0000" stop="20251120221300 +0000" channel="Discovery Theater.ar">
 <title>Historias animales</title>
 <desc>Joao Paulo Krajewski viaja por los bosques de Brasil y Australia en busca de pájaros danzantes.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251120221200 +0000" stop="20251120230000 +0000" channel="Discovery Theater.ar">
+<programme start="20251120221300 +0000" stop="20251120230000 +0000" channel="Discovery Theater.ar">
 <title>Hoteles: secretos y leyendas</title>
 <sub-title>Carrera espacial, fantasmas de Silver City, sobrevir a los Everglades</sub-title>
 <desc>El lanzamiento de la NASA que casi desencadena una guerra, el nacimiento de una ciudad fantasma en Idaho, un viaje por carretera por Florida. Luego, el duelo casi fatal de un presidente.</desc>
@@ -7278,43 +7314,43 @@
 </programme>
 <programme start="20251119030000 +0000" stop="20251119040000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119040000 +0000" stop="20251119050000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119050000 +0000" stop="20251119060000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119060000 +0000" stop="20251119070000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119070000 +0000" stop="20251119080000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119080000 +0000" stop="20251119090000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119090000 +0000" stop="20251119100000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119100000 +0000" stop="20251119110000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119110000 +0000" stop="20251119130000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119140000 +0000" stop="20251119160000 +0000" channel="ESPN 2.ar">
 <title>ESPN F12</title>
@@ -7331,7 +7367,7 @@
 </programme>
 <programme start="20251119193000 +0000" stop="20251119200000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119200000 +0000" stop="20251119210000 +0000" channel="ESPN 2.ar">
 <title>Generacion F</title>
@@ -7347,7 +7383,7 @@
 </programme>
 <programme start="20251119233000 +0000" stop="20251120020000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120020000 +0000" stop="20251120030000 +0000" channel="ESPN 2.ar">
 <title>ESPN F10</title>
@@ -7355,43 +7391,43 @@
 </programme>
 <programme start="20251120030000 +0000" stop="20251120040000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120040000 +0000" stop="20251120050000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120050000 +0000" stop="20251120060000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120060000 +0000" stop="20251120070000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120070000 +0000" stop="20251120080000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120080000 +0000" stop="20251120090000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120090000 +0000" stop="20251120100000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120100000 +0000" stop="20251120110000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120110000 +0000" stop="20251120130000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120140000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120140000 +0000" stop="20251120160000 +0000" channel="ESPN 2.ar">
 <title>ESPN F12</title>
@@ -7408,7 +7444,7 @@
 </programme>
 <programme start="20251120193000 +0000" stop="20251120200000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251120200000 +0000" stop="20251120210000 +0000" channel="ESPN 2.ar">
 <title>Generacion F</title>
@@ -7424,7 +7460,7 @@
 </programme>
 <programme start="20251120233000 +0000" stop="20251121020000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119030000 +0000" stop="20251119053000 +0000" channel="ESPN 3.ar">
 <title>New York Rangers vs. Vegas Golden Knights</title>
@@ -7439,7 +7475,9 @@
 <desc>Vive las carreras de la 77º edicion de la categoría principal del Campeonato del Mundo de Motociclismo. Este certamen, conocido a veces como Campeonato del Mundo de Velocidad, está regido por la Federacion Internacional de Motociclismo.</desc>
 </programme>
 <programme start="20251119070000 +0000" stop="20251119090000 +0000" channel="ESPN 3.ar">
-<title>A confirmar</title>
+<title>Países Bajos vs. Lituania</title>
+<sub-title>Grupo G</sub-title>
+<desc>Vive los partidos de la clasificacion de UEFA para la Copa Mundial de Fútbol de 2026. Será el torneo que determinará a los clasificados a la Copa Mundial de Fútbol de 2026.</desc>
 </programme>
 <programme start="20251119090000 +0000" stop="20251119100000 +0000" channel="ESPN 3.ar">
 <title>España vs. Turquía</title>
@@ -7498,8 +7536,8 @@
 <desc>Vive los partidos de la 25º edicion de la UEFA Champions League Femenina, torneo que reúne a los mejores equipos del continente europeo.</desc>
 </programme>
 <programme start="20251120030000 +0000" stop="20251120040000 +0000" channel="ESPN 3.ar">
-<title>European Qualifiers Preview</title>
-<desc>La previa de los partidos correspondientes a las eliminatorias de la UEFA para la Copa Mundial de la FIFA 2026. Las selecciones del continente europeo se preparan para dejarlo todo en la cancha y ganarse su lugar en el campeonato del mundo.</desc>
+<title>UEFA World Cup Qualifying Matchday Highlights</title>
+<desc>Disfruta de lo más destacado de la jornada de clasificacion de la UEFA para la Copa Mundial de la FIFA de 2026. El campeonato reúne a los equipos más destacados de Europa en encuentros cargados de emocion y muy esperados por sus hinchas.</desc>
 </programme>
 <programme start="20251120040000 +0000" stop="20251120050000 +0000" channel="ESPN 3.ar">
 <title>Gran Premio de la Comunidad Valenciana, Circuito Ricardo Tormo</title>
@@ -7531,8 +7569,8 @@
 <desc>Disfruta de lo más destacado de la jornada de clasificacion de la UEFA para la Copa Mundial de la FIFA de 2026. El campeonato reúne a los equipos más destacados de Europa en encuentros cargados de emocion y muy esperados por sus hinchas.</desc>
 </programme>
 <programme start="20251120110000 +0000" stop="20251120120000 +0000" channel="ESPN 3.ar">
-<title>European Qualifiers Preview</title>
-<desc>La previa de los partidos correspondientes a las eliminatorias de la UEFA para la Copa Mundial de la FIFA 2026. Las selecciones del continente europeo se preparan para dejarlo todo en la cancha y ganarse su lugar en el campeonato del mundo.</desc>
+<title>UEFA World Cup Qualifying Matchday Highlights</title>
+<desc>Disfruta de lo más destacado de la jornada de clasificacion de la UEFA para la Copa Mundial de la FIFA de 2026. El campeonato reúne a los equipos más destacados de Europa en encuentros cargados de emocion y muy esperados por sus hinchas.</desc>
 </programme>
 <programme start="20251120120000 +0000" stop="20251120140000 +0000" channel="ESPN 3.ar">
 <title>Juventus (Ita) vs. OL Lyonnes (Fra)</title>
@@ -7551,7 +7589,8 @@
 <desc>Disfruta las emociones de la segunda edicion de esta competencia de fútbol 7 que convoca a 40 equipos de distintos barrios y grandes figuras, que compiten en un formato profesional.</desc>
 </programme>
 <programme start="20251120213000 +0000" stop="20251120220000 +0000" channel="ESPN 3.ar">
-<title>A confirmar</title>
+<title>Polo AAP</title>
+<desc>Los mejores torneos de un deporte en el que la Argentina es líder indiscutido en el mundo.</desc>
 </programme>
 <programme start="20251120220000 +0000" stop="20251120230000 +0000" channel="ESPN 3.ar">
 <title>Gran Premio República</title>
@@ -7628,7 +7667,7 @@
 </programme>
 <programme start="20251119200000 +0000" stop="20251119210000 +0000" channel="ESPN Extra.ar">
 <title>Fecha 10</title>
-<desc>Revive los mejores momentos de los partidos de la clasificacion de UEFA para la Copa Mundial de Fútbol de 2026.</desc>
+<desc>Disfruta de lo más destacado de la jornada de clasificacion de la UEFA para la Copa Mundial de la FIFA de 2026. El campeonato reúne a los equipos más destacados de Europa en encuentros cargados de emocion y muy esperados por sus hinchas.</desc>
 </programme>
 <programme start="20251119210000 +0000" stop="20251119220000 +0000" channel="ESPN Extra.ar">
 <title>NFL Semanal</title>
@@ -7763,12 +7802,12 @@
 <desc>Disfruta de lo más destacado de la jornada clasificatoria de la UEFA para la Copa Mundial de la FIFA de 2026. El campeonato reúne a los equipos más destacados de Europa en encuentros cargados de emocion y muy esperados por sus hinchas.</desc>
 </programme>
 <programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="ESPN.ar">
-<title>European Qualifiers Preview</title>
-<desc>La previa de los partidos correspondientes a las eliminatorias de la UEFA para la Copa Mundial de la FIFA 2026. Las selecciones del continente europeo se preparan para dejarlo todo en la cancha y ganarse su lugar en el campeonato del mundo.</desc>
+<title>UEFA World Cup Qualifying Matchday Highlights</title>
+<desc>Disfruta de lo más destacado de la jornada de clasificacion de la UEFA para la Copa Mundial de la FIFA de 2026. El campeonato reúne a los equipos más destacados de Europa en encuentros cargados de emocion y muy esperados por sus hinchas.</desc>
 </programme>
 <programme start="20251119140000 +0000" stop="20251119173000 +0000" channel="ESPN.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119173000 +0000" stop="20251119194000 +0000" channel="ESPN.ar">
 <title>Juventus (Ita) vs. OL Lyonnes (Fra)</title>
@@ -7780,7 +7819,7 @@
 </programme>
 <programme start="20251119220000 +0000" stop="20251119233000 +0000" channel="ESPN.ar">
 <title>SportsCenter</title>
-<desc>Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial enfasis, sobre todo lo referente al deporte sudamericano.</desc>
+<desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
 </programme>
 <programme start="20251119233000 +0000" stop="20251120000000 +0000" channel="ESPN.ar">
 <title>NBA esta noche</title>
@@ -8142,9 +8181,17 @@
 <title>Leyendas del rugby</title>
 <desc>Un programa sobre la historia y la trayectoria de los Pumas, la seleccion nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atraveso el equipo.</desc>
 </programme>
-<programme start="20251120103000 +0000" stop="20251120123000 +0000" channel="FOX Sports 2.ar">
-<title>San Pablo Burgos vs. MoraBanc Andorra</title>
-<desc>Vive los partidos de la 43º edicion de la principal liga de baloncesto profesional de España.</desc>
+<programme start="20251120103000 +0000" stop="20251120113000 +0000" channel="FOX Sports 2.ar">
+<title>Moving</title>
+<desc>Magazine dedicado a la industria automotriz, productos, movilidad, nuevas tecnologías, industria global y gaming automotriz.</desc>
+</programme>
+<programme start="20251120113000 +0000" stop="20251120120000 +0000" channel="FOX Sports 2.ar">
+<title>Michael Morales</title>
+<desc>Conoce cuál ha sido el recorrido de los mejores peleadores de la UFC durante su aventura en las MMA, así como todo lo que han tenido que pasar desde que se iniciaron hasta el momento en que se encuentran hoy.</desc>
+</programme>
+<programme start="20251120120000 +0000" stop="20251120123000 +0000" channel="FOX Sports 2.ar">
+<title>Laureano Staropoli</title>
+<desc>Figuras del deporte cuentan en primera persona y sin intermediarios, quienes son dentro y fuera del campo de juego. Un espacioíntimodonderevelan como el sacrificiosetransformaen gloria.</desc>
 </programme>
 <programme start="20251120123000 +0000" stop="20251120150000 +0000" channel="FOX Sports 2.ar">
 <title>132</title>
@@ -8342,7 +8389,7 @@
 </programme>
 <programme start="20251119080000 +0000" stop="20251119100000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251119100000 +0000" stop="20251119120000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
@@ -8358,14 +8405,15 @@
 </programme>
 <programme start="20251119160000 +0000" stop="20251119180000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251119180000 +0000" stop="20251119200000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
+<desc>Se analiza lo destacado de la actualidad deportiva argentina y de las principales competencias de Fox Sports: CONMEBOL Libertadores, UEFA Champions League, Formula 1, CoppaItalia, Premiership, y mucho más.</desc>
 </programme>
 <programme start="20251119200000 +0000" stop="20251119220000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251119220000 +0000" stop="20251120000000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
@@ -8405,7 +8453,7 @@
 </programme>
 <programme start="20251120080000 +0000" stop="20251120100000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251120100000 +0000" stop="20251120120000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
@@ -8425,14 +8473,15 @@
 </programme>
 <programme start="20251120160000 +0000" stop="20251120180000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251120180000 +0000" stop="20251120200000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
+<desc>Se analiza lo destacado de la actualidad deportiva argentina y de las principales competencias de Fox Sports: CONMEBOL Libertadores, UEFA Champions League, Formula 1, CoppaItalia, Premiership, y mucho más.</desc>
 </programme>
 <programme start="20251120200000 +0000" stop="20251120220000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251120220000 +0000" stop="20251120233000 +0000" channel="FOX Sports Cono Sur.ar">
 <title>Fox Sports</title>
@@ -8456,7 +8505,7 @@
 </programme>
 <programme start="20251119080000 +0000" stop="20251119100000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251119100000 +0000" stop="20251119120000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
@@ -8472,14 +8521,15 @@
 </programme>
 <programme start="20251119160000 +0000" stop="20251119180000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251119180000 +0000" stop="20251119200000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
+<desc>Se analiza lo destacado de la actualidad deportiva argentina y de las principales competencias de Fox Sports: CONMEBOL Libertadores, UEFA Champions League, Formula 1, CoppaItalia, Premiership, y mucho más.</desc>
 </programme>
 <programme start="20251119200000 +0000" stop="20251119220000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251119220000 +0000" stop="20251120000000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
@@ -8519,7 +8569,7 @@
 </programme>
 <programme start="20251120080000 +0000" stop="20251120100000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251120100000 +0000" stop="20251120120000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
@@ -8539,14 +8589,15 @@
 </programme>
 <programme start="20251120160000 +0000" stop="20251120180000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251120180000 +0000" stop="20251120200000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
+<desc>Se analiza lo destacado de la actualidad deportiva argentina y de las principales competencias de Fox Sports: CONMEBOL Libertadores, UEFA Champions League, Formula 1, CoppaItalia, Premiership, y mucho más.</desc>
 </programme>
 <programme start="20251120200000 +0000" stop="20251120220000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
-<desc>Un magazine diario y un viaje espectacular por las noticias deportivas del día, con la dosis justa de entretenimiento, deportes e informacion.</desc>
+<desc>El lugar donde llegan primero las noticias deportivas. Un informativo con actitud y dinamismo, con todo el análisis y desde una perspectiva diferente.</desc>
 </programme>
 <programme start="20251120220000 +0000" stop="20251120233000 +0000" channel="FOX Sports HD.ar">
 <title>Fox Sports</title>
@@ -9568,19 +9619,19 @@
 <title>La chica del tren</title>
 <desc>Rachel es una mujer devastada por su reciente divorcio. Hasta que una mañana es testigo, desde la ventana del tren que toma para ir a su trabajo, de un acontecimiento impactante, y se ve involucrada en el misterio que ella misma revela</desc>
 </programme>
-<programme start="20251120101900 +0000" stop="20251120121100 +0000" channel="HBO Oeste HD.ar">
+<programme start="20251120101900 +0000" stop="20251120120000 +0000" channel="HBO Oeste HD.ar">
 <title>Nene de mamá</title>
 <desc>Jeffrey Mannus es un excentrico joven de 29 años que todavía vive en casa de su madre. Él no ve ninguna razon para tener que cambiar su feliz estado, pero su mundo perfecto se verá vuelto del reves cuando su mamá conoce a Mert.</desc>
 </programme>
-<programme start="20251120121100 +0000" stop="20251120151700 +0000" channel="HBO Oeste HD.ar">
+<programme start="20251120120000 +0000" stop="20251120150500 +0000" channel="HBO Oeste HD.ar">
 <title>El señor de los anillos: La comunidad del anillo</title>
 <desc>El Señor Oscuro Sauron ordeno a los Elfos que forjaran Grandes Anillos de Poder para los reyes Elfos, los Señores Enanos, y los Hombres Mortales. Pero tambien forjo, en secreto, el Anillo Único, que puede esclavizar toda la Tierra Media.</desc>
 </programme>
-<programme start="20251120151700 +0000" stop="20251120174200 +0000" channel="HBO Oeste HD.ar">
+<programme start="20251120150500 +0000" stop="20251120173000 +0000" channel="HBO Oeste HD.ar">
 <title>Ángeles y demonios</title>
 <desc>El profesor de simbología religiosa Robert Langdon se ve pronto sumido en la búsqueda de secretos de una antigua secta satánica denominada Illuminati y del arma más mortífera de la humanidad, la "antimateria".</desc>
 </programme>
-<programme start="20251120174200 +0000" stop="20251120201900 +0000" channel="HBO Oeste HD.ar">
+<programme start="20251120173000 +0000" stop="20251120201900 +0000" channel="HBO Oeste HD.ar">
 <title>Wicked</title>
 <desc>Elphaba es una joven incomprendida por su inusual color verde. Glinda es una popular joven marcada por sus privilegios. Las dos se conocen como estudiantes de la Universidad Shiz, y forjan una insolita pero profunda amistad.</desc>
 </programme>
@@ -9590,11 +9641,11 @@
 <desc>Una reestructuracion en el trabajo conlleva consecuencias imprevistas.</desc>
 <episode-num system="xmltv_ns">0.5.</episode-num>
 </programme>
-<programme start="20251120205400 +0000" stop="20251120225500 +0000" channel="HBO Oeste HD.ar">
+<programme start="20251120205400 +0000" stop="20251120224300 +0000" channel="HBO Oeste HD.ar">
 <title>Bárbaro</title>
 <desc>Una mujer llega a su alquiler de Airbnb a altas horas de la noche y descubre que la casa se ha reservado dos veces por error y que un hombre extraño ya se está quedando allí. Pronto descubre que hay mucho más que temer que al otro huesped.</desc>
 </programme>
-<programme start="20251120225500 +0000" stop="20251121011200 +0000" channel="HBO Oeste HD.ar">
+<programme start="20251120224300 +0000" stop="20251121010100 +0000" channel="HBO Oeste HD.ar">
 <title>Superman</title>
 <desc>En un mundo cínico que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con su crianza humana en Smallville como Clark Kent.</desc>
 </programme>
@@ -9664,19 +9715,19 @@
 <title>La chica del tren</title>
 <desc>Rachel es una mujer devastada por su reciente divorcio. Hasta que una mañana es testigo, desde la ventana del tren que toma para ir a su trabajo, de un acontecimiento impactante, y se ve involucrada en el misterio que ella misma revela</desc>
 </programme>
-<programme start="20251120101900 +0000" stop="20251120121100 +0000" channel="HBO Oeste.ar">
+<programme start="20251120101900 +0000" stop="20251120120000 +0000" channel="HBO Oeste.ar">
 <title>Nene de mamá</title>
 <desc>Jeffrey Mannus es un excentrico joven de 29 años que todavía vive en casa de su madre. Él no ve ninguna razon para tener que cambiar su feliz estado, pero su mundo perfecto se verá vuelto del reves cuando su mamá conoce a Mert.</desc>
 </programme>
-<programme start="20251120121100 +0000" stop="20251120151700 +0000" channel="HBO Oeste.ar">
+<programme start="20251120120000 +0000" stop="20251120150500 +0000" channel="HBO Oeste.ar">
 <title>El señor de los anillos: La comunidad del anillo</title>
 <desc>El Señor Oscuro Sauron ordeno a los Elfos que forjaran Grandes Anillos de Poder para los reyes Elfos, los Señores Enanos, y los Hombres Mortales. Pero tambien forjo, en secreto, el Anillo Único, que puede esclavizar toda la Tierra Media.</desc>
 </programme>
-<programme start="20251120151700 +0000" stop="20251120174200 +0000" channel="HBO Oeste.ar">
+<programme start="20251120150500 +0000" stop="20251120173000 +0000" channel="HBO Oeste.ar">
 <title>Ángeles y demonios</title>
 <desc>El profesor de simbología religiosa Robert Langdon se ve pronto sumido en la búsqueda de secretos de una antigua secta satánica denominada Illuminati y del arma más mortífera de la humanidad, la "antimateria".</desc>
 </programme>
-<programme start="20251120174200 +0000" stop="20251120201900 +0000" channel="HBO Oeste.ar">
+<programme start="20251120173000 +0000" stop="20251120201900 +0000" channel="HBO Oeste.ar">
 <title>Wicked</title>
 <desc>Elphaba es una joven incomprendida por su inusual color verde. Glinda es una popular joven marcada por sus privilegios. Las dos se conocen como estudiantes de la Universidad Shiz, y forjan una insolita pero profunda amistad.</desc>
 </programme>
@@ -9686,11 +9737,11 @@
 <desc>Una reestructuracion en el trabajo conlleva consecuencias imprevistas.</desc>
 <episode-num system="xmltv_ns">0.5.</episode-num>
 </programme>
-<programme start="20251120205400 +0000" stop="20251120225500 +0000" channel="HBO Oeste.ar">
+<programme start="20251120205400 +0000" stop="20251120224300 +0000" channel="HBO Oeste.ar">
 <title>Bárbaro</title>
 <desc>Una mujer llega a su alquiler de Airbnb a altas horas de la noche y descubre que la casa se ha reservado dos veces por error y que un hombre extraño ya se está quedando allí. Pronto descubre que hay mucho más que temer que al otro huesped.</desc>
 </programme>
-<programme start="20251120225500 +0000" stop="20251121011200 +0000" channel="HBO Oeste.ar">
+<programme start="20251120224300 +0000" stop="20251121010100 +0000" channel="HBO Oeste.ar">
 <title>Superman</title>
 <desc>En un mundo cínico que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con su crianza humana en Smallville como Clark Kent.</desc>
 </programme>
@@ -10793,8 +10844,8 @@
 </programme>
 <programme start="20251119050000 +0000" stop="20251119060000 +0000" channel="Hola TV.ar">
 <title>Especiales realeza</title>
-<sub-title>Los royals en el frente II</sub-title>
-<desc>Sigue explorando los desafíos, responsabilidades y experiencias que distintos integrantes de la Casa de Windsor enfrentaron como parte de sus funciones en las fuerzas armadas.</desc>
+<sub-title>Los royals en el frente - Parte II</sub-title>
+<desc>Sigue explorando los desafíos, responsabilidades y experiencias, que tuvieron los distintos integrantes de la Casa de Windsor, como parte de sus funciones en las fuerzas armadas.</desc>
 <episode-num system="xmltv_ns">.152.</episode-num>
 </programme>
 <programme start="20251119060000 +0000" stop="20251119070000 +0000" channel="Hola TV.ar">
@@ -10850,7 +10901,7 @@
 </programme>
 <programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="Hola TV.ar">
 <title>Coronas y palacios</title>
-<desc>Un recorrido en detalle sobre la realeza, protagonizada por los miembros de las monarquías, incluyendo sus actividades y el seguimiento de los actos a los que acuden, según sus agendas oficiales.</desc>
+<desc>Continuamos acompañando a la realeza en sus compromisos sociales, políticos y familiares. Sus viajes y beneficencias alrededor del mundo.</desc>
 <episode-num system="xmltv_ns">0.286.</episode-num>
 </programme>
 <programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="Hola TV.ar">
@@ -10881,8 +10932,8 @@
 </programme>
 <programme start="20251119180000 +0000" stop="20251119190000 +0000" channel="Hola TV.ar">
 <title>Especiales realeza</title>
-<sub-title>Los royals en el frente II</sub-title>
-<desc>Sigue explorando los desafíos, responsabilidades y experiencias que distintos integrantes de la Casa de Windsor enfrentaron como parte de sus funciones en las fuerzas armadas.</desc>
+<sub-title>Los royals en el frente - Parte II</sub-title>
+<desc>Sigue explorando los desafíos, responsabilidades y experiencias, que tuvieron los distintos integrantes de la Casa de Windsor, como parte de sus funciones en las fuerzas armadas.</desc>
 <episode-num system="xmltv_ns">.152.</episode-num>
 </programme>
 <programme start="20251119190000 +0000" stop="20251119200000 +0000" channel="Hola TV.ar">
@@ -10898,7 +10949,7 @@
 </programme>
 <programme start="20251119203000 +0000" stop="20251119210000 +0000" channel="Hola TV.ar">
 <title>Coronas y palacios</title>
-<desc>Un recorrido en detalle sobre la realeza, protagonizada por los miembros de las monarquías, incluyendo sus actividades y el seguimiento de los actos a los que acuden, según sus agendas oficiales.</desc>
+<desc>Continuamos acompañando a la realeza en sus compromisos sociales, políticos y familiares. Sus viajes y beneficencias alrededor del mundo.</desc>
 <episode-num system="xmltv_ns">0.286.</episode-num>
 </programme>
 <programme start="20251119210000 +0000" stop="20251119213000 +0000" channel="Hola TV.ar">
@@ -10935,7 +10986,7 @@
 <programme start="20251120010000 +0000" stop="20251120020000 +0000" channel="Hola TV.ar">
 <title>Íntimo y personal</title>
 <sub-title>Miguel Bose IV</sub-title>
-<desc>Un espacio de cercanía con personajes únicos, donde nos revelan detalles de su vida de manera exclusiva, donde vemos el detrás de cámaras, la cotidianidad, los sentimientos, los secretos y los afectos como solo Hola TV lo puede mostrar.</desc>
+<desc>Continuamos con el especial sobre la carrera artistica del bailarín, Miguel Bose. Hablamos sobre sus grandes exitos y su vida personal.</desc>
 <episode-num system="xmltv_ns">.65.</episode-num>
 </programme>
 <programme start="20251120020000 +0000" stop="20251120030000 +0000" channel="Hola TV.ar">
@@ -10957,7 +11008,7 @@
 <programme start="20251120050000 +0000" stop="20251120060000 +0000" channel="Hola TV.ar">
 <title>Íntimo y personal</title>
 <sub-title>Miguel Bose IV</sub-title>
-<desc>Un espacio de cercanía con personajes únicos, donde nos revelan detalles de su vida de manera exclusiva, donde vemos el detrás de cámaras, la cotidianidad, los sentimientos, los secretos y los afectos como solo Hola TV lo puede mostrar.</desc>
+<desc>Continuamos con el especial sobre la carrera artistica del bailarín, Miguel Bose. Hablamos sobre sus grandes exitos y su vida personal.</desc>
 <episode-num system="xmltv_ns">.65.</episode-num>
 </programme>
 <programme start="20251120060000 +0000" stop="20251120070000 +0000" channel="Hola TV.ar">
@@ -11011,7 +11062,7 @@
 </programme>
 <programme start="20251120123000 +0000" stop="20251120130000 +0000" channel="Hola TV.ar">
 <title>Coronas y palacios</title>
-<desc>Un recorrido en detalle sobre la realeza, protagonizada por los miembros de las monarquías, incluyendo sus actividades y el seguimiento de los actos a los que acuden, según sus agendas oficiales.</desc>
+<desc>Continuamos acompañando a la realeza en sus compromisos sociales, políticos y familiares. Sus viajes y beneficencias alrededor del mundo.</desc>
 <episode-num system="xmltv_ns">0.287.</episode-num>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120140000 +0000" channel="Hola TV.ar">
@@ -11043,7 +11094,7 @@
 <programme start="20251120180000 +0000" stop="20251120190000 +0000" channel="Hola TV.ar">
 <title>Íntimo y personal</title>
 <sub-title>Miguel Bose IV</sub-title>
-<desc>Un espacio de cercanía con personajes únicos, donde nos revelan detalles de su vida de manera exclusiva, donde vemos el detrás de cámaras, la cotidianidad, los sentimientos, los secretos y los afectos como solo Hola TV lo puede mostrar.</desc>
+<desc>Continuamos con el especial sobre la carrera artistica del bailarín, Miguel Bose. Hablamos sobre sus grandes exitos y su vida personal.</desc>
 <episode-num system="xmltv_ns">.65.</episode-num>
 </programme>
 <programme start="20251120190000 +0000" stop="20251120200000 +0000" channel="Hola TV.ar">
@@ -11059,7 +11110,7 @@
 </programme>
 <programme start="20251120203000 +0000" stop="20251120210000 +0000" channel="Hola TV.ar">
 <title>Coronas y palacios</title>
-<desc>Un recorrido en detalle sobre la realeza, protagonizada por los miembros de las monarquías, incluyendo sus actividades y el seguimiento de los actos a los que acuden, según sus agendas oficiales.</desc>
+<desc>Continuamos acompañando a la realeza en sus compromisos sociales, políticos y familiares. Sus viajes y beneficencias alrededor del mundo.</desc>
 <episode-num system="xmltv_ns">0.287.</episode-num>
 </programme>
 <programme start="20251120210000 +0000" stop="20251120213000 +0000" channel="Hola TV.ar">
@@ -11115,187 +11166,187 @@
 <desc>Asesinan de un disparo a un padre joven mientras caminaba con un amigo por su vecindario en Cincinnati. La detective Jenny Luke está decidida a averiguar si fue premeditado o si fue una víctima del azar.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251119032400 +0000" stop="20251119041200 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119032400 +0000" stop="20251119041300 +0000" channel="Investigation Discovery.ar">
 <title>Casados con el mal</title>
 <sub-title>Morir para escapar</sub-title>
 <desc>Luego de tres años de abusos, Cheryl se arma de valor y deja a su cruel marido, Thom. Cuando Cheryl encuentra un nuevo amor, su ex toma la última venganza.</desc>
 <episode-num system="xmltv_ns">1.5.</episode-num>
 </programme>
-<programme start="20251119041200 +0000" stop="20251119050000 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119041300 +0000" stop="20251119050100 +0000" channel="Investigation Discovery.ar">
 <title>Casados con el mal</title>
 <sub-title>Entrega mortal</sub-title>
 <desc>Una figura vestida de payaso dispara a una madre frente a su casa. El caso se archiva pero una pista inesperada lleva al payaso ante la justicia.</desc>
 <episode-num system="xmltv_ns">1.2.</episode-num>
 </programme>
-<programme start="20251119050000 +0000" stop="20251119054800 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119050100 +0000" stop="20251119054700 +0000" channel="Investigation Discovery.ar">
 <title>Infidelidades fatales</title>
 <sub-title>Leccion en lujuria</sub-title>
 <desc>Se inicia una apasionante aventura entre dos maestros, con citas secretas en toda la escuela. Cuando resulta que uno de ellos está casado, la lujuria se convierte en tragedia y un cuerpo termina en una zanja.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20251119054800 +0000" stop="20251119063600 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119054700 +0000" stop="20251119063200 +0000" channel="Investigation Discovery.ar">
 <title>Infidelidades fatales</title>
 <sub-title>Una obsesion se convierte en asesinato</sub-title>
 <desc>Cuando una relacion en el trabajo se convierte en un romance en toda regla, no solo la temperatura en la cocina aumenta. Pero cuando la infidelidad queda al descubierto, a uno de ellos le quemarán algo más que los dedos.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119063600 +0000" stop="20251119072400 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119063200 +0000" stop="20251119071800 +0000" channel="Investigation Discovery.ar">
 <title>Infidelidades fatales</title>
 <sub-title>Trono manchado de sangre</sub-title>
 <desc>Un triángulo amoroso se desarrolla en un grupo de recreacion medieval. Con bodas, abortos espontáneos y promesas incumplidas, las cosas pronto se complican. Pero en la batalla por la supremacía solo puede haber un ganador.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251119072400 +0000" stop="20251119081200 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119071800 +0000" stop="20251119081400 +0000" channel="Investigation Discovery.ar">
 <title>El lado oscuro de Playboy</title>
 <sub-title>Corre, Bambi, corre</sub-title>
 <desc>Despues de ser despedida del departamento de policía, Laurie Bembenek de 19 años, se convierte en una conejita de Playboy. Cuando muere la exesposa de su nuevo marido, Laurie es considerada una mujer fatal y la condenan.</desc>
 <episode-num system="xmltv_ns">1.2.</episode-num>
 </programme>
-<programme start="20251119081200 +0000" stop="20251119090000 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119081400 +0000" stop="20251119090000 +0000" channel="Investigation Discovery.ar">
 <title>El lado oscuro de Playboy</title>
 <sub-title>La chica en la bañera roja</sub-title>
 <desc>Una camarera local salta al estrellato al aparecer en una sesion fotográfica de Playboy. Absorbe la fama y la nueva atencion hasta que una sorpresa sale mal, terminando en tragedia y convirtiendose en víctima de un doble asesinato macabro.</desc>
 <episode-num system="xmltv_ns">2.5.</episode-num>
 </programme>
-<programme start="20251119090000 +0000" stop="20251119094800 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119090000 +0000" stop="20251119094600 +0000" channel="Investigation Discovery.ar">
 <title>New York Post investiga</title>
 <sub-title>Asesinato millonario</sub-title>
 <desc>El asesinato de George Kogan, un ejecutivo, a plena luz del día, provoca oleadas de reacciones en Upper East Side. Los investigadores deben descifrar una red de mentiras para descubrir quien quería que este millonario este muerto.</desc>
 <episode-num system="xmltv_ns">0.4.</episode-num>
 </programme>
-<programme start="20251119094800 +0000" stop="20251119103600 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119094600 +0000" stop="20251119103100 +0000" channel="Investigation Discovery.ar">
 <title>New York Post investiga</title>
 <sub-title>Misterio en CSI</sub-title>
 <desc>Una mujer hermosa y joven es brutalmente asesinada en su casa. La policía de Nueva York sigue un camino de pistas complicadas para revelar la verdad acerca de quien la asesino, hasta que un descubrimiento indica que hay algo más.</desc>
 <episode-num system="xmltv_ns">0.5.</episode-num>
 </programme>
-<programme start="20251119103600 +0000" stop="20251119112400 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119103100 +0000" stop="20251119111700 +0000" channel="Investigation Discovery.ar">
 <title>New York Post investiga</title>
 <sub-title>La sangre no descansa</sub-title>
 <desc>Un crimen registrado en video muestra a Menachem Stark luchando por su vida. Cuando, al día siguiente, aparece su cuerpo, el departamento de policía de Nueva York busca a sus asesinos.</desc>
 <episode-num system="xmltv_ns">0.6.</episode-num>
 </programme>
-<programme start="20251119112400 +0000" stop="20251119121200 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119111700 +0000" stop="20251119120300 +0000" channel="Investigation Discovery.ar">
 <title>La casa del mal</title>
 <sub-title>Dicen que asesine a mi hermano</sub-title>
 <desc>Eric Nance espera que su hermana Belinda encuentre y destruya su arma homicida para protegerlo. Cuando finalmente la encuentra, Belinda tiene que elegir entre serle fiel a su hermano y hacer lo que corresponde.</desc>
 <episode-num system="xmltv_ns">8.4.</episode-num>
 </programme>
-<programme start="20251119121200 +0000" stop="20251119130000 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119120300 +0000" stop="20251119124900 +0000" channel="Investigation Discovery.ar">
 <title>La casa del mal</title>
 <sub-title>Todos moriremos esta noche</sub-title>
 <desc>Christina Gaines tiene una cita con Patrick Fowler, un supuesto caballero perfecto. Pronto descubre la verdadera naturaleza de Patrick y se da cuenta del engaño. Christina debe encontrar la manera de evitar convertirse en su víctima.</desc>
 <episode-num system="xmltv_ns">9.11.</episode-num>
 </programme>
-<programme start="20251119130000 +0000" stop="20251119134800 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119124900 +0000" stop="20251119133600 +0000" channel="Investigation Discovery.ar">
 <title>La casa del mal</title>
 <sub-title>Estamos contentas de que mamá este muerta</sub-title>
 <desc>Victoria y Christine Lisowski viven con miedo a su madre, Sungnam Kwon-Lisowski. Nunca imaginan que esta Navidad se sentirán afortunadas de sobrevivir a las fiestas y a la enloquecida venganza de su madre.</desc>
 <episode-num system="xmltv_ns">7..</episode-num>
 </programme>
-<programme start="20251119134800 +0000" stop="20251119143600 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119133600 +0000" stop="20251119142400 +0000" channel="Investigation Discovery.ar">
 <title>La casa del mal</title>
 <sub-title>Trajo flores y un arma</sub-title>
 <desc>Andrea cree que Ray Clark es el hombre de sus sueños. Pero cuando revela que está embarazada, Ray se convierte en una pesadilla. Él la acecha y tortura a su hijo. Andrea y su bebe escapan, pero la proxima mujer de Ray no tiene tanta suerte.</desc>
 <episode-num system="xmltv_ns">7.15.</episode-num>
 </programme>
-<programme start="20251119143600 +0000" stop="20251119152400 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119142400 +0000" stop="20251119151200 +0000" channel="Investigation Discovery.ar">
 <title>Red de mentiras</title>
 <sub-title>La muerte de una estrella de internet</sub-title>
 <desc>Cuando una joven diseñadora y madre de tres niños se convierten en estrella de YouTube con sus tutoriales, el dinero empieza a llegar. Pero su exnovio violento no está preparado para verla crecer.</desc>
 <episode-num system="xmltv_ns">5.8.</episode-num>
 </programme>
-<programme start="20251119152400 +0000" stop="20251119161200 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119151200 +0000" stop="20251119160200 +0000" channel="Investigation Discovery.ar">
 <title>El lado oscuro de Playboy</title>
 <sub-title>Corre, Bambi, corre</sub-title>
 <desc>Despues de ser despedida del departamento de policía, Laurie Bembenek de 19 años, se convierte en una conejita de Playboy. Cuando muere la exesposa de su nuevo marido, Laurie es considerada una mujer fatal y la condenan.</desc>
 <episode-num system="xmltv_ns">1.2.</episode-num>
 </programme>
-<programme start="20251119161200 +0000" stop="20251119170000 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119160200 +0000" stop="20251119165100 +0000" channel="Investigation Discovery.ar">
 <title>El lado oscuro de Playboy</title>
 <sub-title>La chica en la bañera roja</sub-title>
 <desc>Una camarera local salta al estrellato al aparecer en una sesion fotográfica de Playboy. Absorbe la fama y la nueva atencion hasta que una sorpresa sale mal, terminando en tragedia y convirtiendose en víctima de un doble asesinato macabro.</desc>
 <episode-num system="xmltv_ns">2.5.</episode-num>
 </programme>
-<programme start="20251119170000 +0000" stop="20251119174800 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119165100 +0000" stop="20251119174000 +0000" channel="Investigation Discovery.ar">
 <title>El lado oscuro de Playboy</title>
 <sub-title>Sexo, drogas y Playboy</sub-title>
 <desc>Tras la muerte de Adrienne Pollack, su familia investiga las sospechas sobre su fallecimiento. Pero su búsqueda revela un oscuro secreto que podría destruir a Hugh Hefner.</desc>
 <episode-num system="xmltv_ns">2.4.</episode-num>
 </programme>
-<programme start="20251119174800 +0000" stop="20251119183600 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119174000 +0000" stop="20251119182900 +0000" channel="Investigation Discovery.ar">
 <title>Infidelidades fatales</title>
 <sub-title>Leccion en lujuria</sub-title>
 <desc>Se inicia una apasionante aventura entre dos maestros, con citas secretas en toda la escuela. Cuando resulta que uno de ellos está casado, la lujuria se convierte en tragedia y un cuerpo termina en una zanja.</desc>
 <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20251119183600 +0000" stop="20251119192400 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119182900 +0000" stop="20251119191800 +0000" channel="Investigation Discovery.ar">
 <title>Infidelidades fatales</title>
 <sub-title>Una obsesion se convierte en asesinato</sub-title>
 <desc>Cuando una relacion en el trabajo se convierte en un romance en toda regla, no solo la temperatura en la cocina aumenta. Pero cuando la infidelidad queda al descubierto, a uno de ellos le quemarán algo más que los dedos.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119192400 +0000" stop="20251119201200 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119191800 +0000" stop="20251119200800 +0000" channel="Investigation Discovery.ar">
 <title>Infidelidades fatales</title>
 <sub-title>Trono manchado de sangre</sub-title>
 <desc>Un triángulo amoroso se desarrolla en un grupo de recreacion medieval. Con bodas, abortos espontáneos y promesas incumplidas, las cosas pronto se complican. Pero en la batalla por la supremacía solo puede haber un ganador.</desc>
 <episode-num system="xmltv_ns">0.2.</episode-num>
 </programme>
-<programme start="20251119201200 +0000" stop="20251119210000 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119200800 +0000" stop="20251119205600 +0000" channel="Investigation Discovery.ar">
 <title>Cuando el mal se disfraza</title>
 <sub-title>¿Cuándo vuelve mamá a casa?</sub-title>
 <desc>Despues de tantos años a la sombra de su marido, Joann Albanese vuelve a encontrar el amor con un entrenador personal llamado John Edwards. Cuando descubre que su novio no es quien dice ser, ya es demasiado tarde.</desc>
 <episode-num system="xmltv_ns">6.10.</episode-num>
 </programme>
-<programme start="20251119210000 +0000" stop="20251119214800 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119205600 +0000" stop="20251119214500 +0000" channel="Investigation Discovery.ar">
 <title>Cuando el mal se disfraza</title>
 <sub-title>Dime que me amas</sub-title>
 <desc>Ashley Pittman cree que se gano la lotería al casarse con Jeffrey Scott, y el le da una vida más comoda que la que dejo atrás en un pueblo de Luisiana.</desc>
 <episode-num system="xmltv_ns">6.11.</episode-num>
 </programme>
-<programme start="20251119214800 +0000" stop="20251119223600 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119214500 +0000" stop="20251119223500 +0000" channel="Investigation Discovery.ar">
 <title>Revista People investiga</title>
 <sub-title>El resentimiento</sub-title>
 <desc>En enero de 2020, una mujer menonita desaparece de su pequeña comunidad religiosa. Encuentran su cuerpo, pero la evidencia forense los lleva a un callejon sin salida.</desc>
 <episode-num system="xmltv_ns">5.109.</episode-num>
 </programme>
-<programme start="20251119223600 +0000" stop="20251119232400 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119223500 +0000" stop="20251119232400 +0000" channel="Investigation Discovery.ar">
 <title>La casa del mal</title>
 <sub-title>Trío de terror</sub-title>
 <desc>Genie ya sabe que Lee Cawthon es capaz de hacer cosas horribles cuando la obliga a tener una relacion polígama. Ella le sigue el juego a sus demandas retorcidas, pero no se da cuenta de que las consecuencias podrían ser peores.</desc>
 <episode-num system="xmltv_ns">12.9.</episode-num>
 </programme>
-<programme start="20251119232400 +0000" stop="20251120001200 +0000" channel="Investigation Discovery.ar">
+<programme start="20251119232400 +0000" stop="20251120001400 +0000" channel="Investigation Discovery.ar">
 <title>La casa del mal</title>
 <sub-title>Tenía una cámara de tortura</sub-title>
 <desc>Cuando Terry Patzer escucha lo que la policía descubrio en la casa de Russell Tillis, los recuerdos de los nueve años que paso casada con el vuelven a su mente. No puede explicar como su amor se volvio tan retorcido.</desc>
 <episode-num system="xmltv_ns">7.5.</episode-num>
 </programme>
-<programme start="20251120001200 +0000" stop="20251120010000 +0000" channel="Investigation Discovery.ar">
+<programme start="20251120001400 +0000" stop="20251120010300 +0000" channel="Investigation Discovery.ar">
 <title>La casa del mal: sombras de muerte</title>
 <sub-title>La ruta del periodico</sub-title>
 <desc>En 1984, la hija de 12 años de un sargento de policía sale a repartir el periodico local pero no regresa. Una búsqueda inmediata y frenetica en toda la ciudad solo arroja más preguntas.</desc>
 <episode-num system="xmltv_ns">2.2.</episode-num>
 </programme>
-<programme start="20251120010000 +0000" stop="20251120012400 +0000" channel="Investigation Discovery.ar">
+<programme start="20251120010300 +0000" stop="20251120012900 +0000" channel="Investigation Discovery.ar">
 <title>Rasgos de un psicopata</title>
 <sub-title>Ese enojo iba a surgir de nuevo</sub-title>
 <desc>La policía ha luchado por resolver tres casos que quedaron en la nada. Tras años de búsqueda, los casos se revelan por completo cuando los agentes detienen a un hombre que violo su libertad condicional, quien se revela como un psicopata</desc>
 <episode-num system="xmltv_ns">4.17.</episode-num>
 </programme>
-<programme start="20251120012400 +0000" stop="20251120014800 +0000" channel="Investigation Discovery.ar">
+<programme start="20251120012900 +0000" stop="20251120015500 +0000" channel="Investigation Discovery.ar">
 <title>Rasgos de un psicopata</title>
 <sub-title>Él exploto</sub-title>
 <desc>La policía de Pensacola acude una tienda cuando un asesino abate a tiros a un joven en una descarada ejecucion pública en el estacionamiento. La policía localiza al sospechoso y encuentra a un psicopata despiadado y sin remordimientos.</desc>
 <episode-num system="xmltv_ns">9.3.</episode-num>
 </programme>
-<programme start="20251120014800 +0000" stop="20251120023600 +0000" channel="Investigation Discovery.ar">
+<programme start="20251120015500 +0000" stop="20251120024500 +0000" channel="Investigation Discovery.ar">
 <title>Un asesino entre amigos</title>
 <sub-title>Secretos que revelar</sub-title>
 <desc>Unas amigas hacen un viaje antes de su ingreso al posgrado. Cuando una de ellas no regresa a casa, todas se preguntan: ¿que paso en Las Vegas?</desc>
 <episode-num system="xmltv_ns">0.4.</episode-num>
 </programme>
-<programme start="20251120023600 +0000" stop="20251121023600 +0000" channel="Investigation Discovery.ar">
+<programme start="20251120024500 +0000" stop="20251121024500 +0000" channel="Investigation Discovery.ar">
 <title>Terror en casa</title>
 <sub-title>Relaciones peligrosas</sub-title>
 <desc>Cody Mac Pherson se muda a Nueva Jersey en busca de trabajo. Luego de una noche de fiesta, desaparece sin dejar rastro. Pronto la investigacion por desaparicion se convierte en la investigacion de un homicidio.</desc>
@@ -11382,7 +11433,7 @@
 <desc>La temporada navideña está en pleno apogeo cuando Emma se entera de que el resort donde solía pasar las Navidades con su familia está siendo remodelado.</desc>
 </programme>
 <programme start="20251119180500 +0000" stop="20251119193800 +0000" channel="Lifetime.ar">
-<title>Christmas at the Chalet</title>
+<title>Navidades en la nieve</title>
 <desc>La ex presentadora de television se encuentra pasando la Navidad en un chalet con su hijo, su ex marido y su nueva novia. Para evadir esta situacion, se ofrece para trabajar en el chalet y documenta todo para sus nuevos seguidores.</desc>
 </programme>
 <programme start="20251119193800 +0000" stop="20251119211100 +0000" channel="Lifetime.ar">
@@ -12665,41 +12716,41 @@
 <desc>En el desierto de Sudán, Albert Lin busca la capital perdida de un reino de guerreros que llego a conquistar y gobernar el poderoso imperio de Egipto.</desc>
 <episode-num system="xmltv_ns">0.1.</episode-num>
 </programme>
-<programme start="20251119105800 +0000" stop="20251119120000 +0000" channel="National Geographic.ar">
+<programme start="20251119105800 +0000" stop="20251119115900 +0000" channel="National Geographic.ar">
 <title>Salvajemente famosos: el desafìo</title>
 <sub-title>Anthony Anderson en las montañas de Sierra Nevada</sub-title>
 <desc>En lo alto de la cordillera de Sierra Nevada, Bear Grylls le enseña a Anthony Anderson una serie de habilidades de supervivencia que debe dominar antes de concluir la aventura.</desc>
 <episode-num system="xmltv_ns">5.1.</episode-num>
 </programme>
-<programme start="20251119120000 +0000" stop="20251119123000 +0000" channel="National Geographic.ar">
+<programme start="20251119115900 +0000" stop="20251119122900 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
-<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="National Geographic.ar">
+<programme start="20251119122900 +0000" stop="20251119125900 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
-<programme start="20251119130000 +0000" stop="20251119133000 +0000" channel="National Geographic.ar">
+<programme start="20251119125900 +0000" stop="20251119132900 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
-<programme start="20251119133000 +0000" stop="20251119140000 +0000" channel="National Geographic.ar">
+<programme start="20251119132900 +0000" stop="20251119135900 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
-<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="National Geographic.ar">
+<programme start="20251119135900 +0000" stop="20251119142900 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
-<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="National Geographic.ar">
+<programme start="20251119142900 +0000" stop="20251119145900 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
-<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="National Geographic.ar">
+<programme start="20251119145900 +0000" stop="20251119152900 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
-<programme start="20251119153000 +0000" stop="20251119160400 +0000" channel="National Geographic.ar">
+<programme start="20251119152900 +0000" stop="20251119160400 +0000" channel="National Geographic.ar">
 <title>Infomercial</title>
 <desc>Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
 </programme>
@@ -12715,13 +12766,13 @@
 <desc>Hazen Aubel atraviesa la densa selva de Guyana y se interna en aguas llenas de hambrientos depredadores, que incluyen pirañas y un enorme caimán, para encontrar a un grupo de indios macuxi.</desc>
 <episode-num system="xmltv_ns">3.0.</episode-num>
 </programme>
-<programme start="20251119175500 +0000" stop="20251119185600 +0000" channel="National Geographic.ar">
+<programme start="20251119175500 +0000" stop="20251119185500 +0000" channel="National Geographic.ar">
 <title>Imperio salvaje</title>
 <sub-title>Juegos de guerra</sub-title>
 <desc>El gobierno de Mmamotse ha dado la vuelta al Reino y su ejercito corre desenfrenado, pero su legado ahora depende de que una princesa suba al trono.</desc>
 <episode-num system="xmltv_ns">2.3.</episode-num>
 </programme>
-<programme start="20251119185600 +0000" stop="20251119195700 +0000" channel="National Geographic.ar">
+<programme start="20251119185500 +0000" stop="20251119195700 +0000" channel="National Geographic.ar">
 <title>Los más peligrosos de África</title>
 <sub-title>Selvas mortales</sub-title>
 <desc>Las selvas africanas esconden secretos oscuros y mortíferos y cada rincon puede esconder la vida o la muerte.</desc>
@@ -12745,19 +12796,19 @@
 <desc>La policía interviene a dos pasajeras sospechosas, mientras que en la zona de arribos internacionales, los oficiales deben lidiar con seis africanos tendidos en el suelo, que se niegan a colaborar y están bajo un ataque de nervios.</desc>
 <episode-num system="xmltv_ns">14.2.</episode-num>
 </programme>
-<programme start="20251119225800 +0000" stop="20251120000000 +0000" channel="National Geographic.ar">
+<programme start="20251119225800 +0000" stop="20251119235900 +0000" channel="National Geographic.ar">
 <title>Alerta aeropuerto</title>
 <sub-title>Seducido en la web</sub-title>
 <desc>En el Aeropuerto Internacional El Dorado, un hombre con un cargamento de cocaína afirma haber sido engañado por una mujer en las redes sociales, y descubren que un envase de vino tiene un ingenioso doble fondo con cocaína líquida.</desc>
 <episode-num system="xmltv_ns">1.0.</episode-num>
 </programme>
-<programme start="20251120000000 +0000" stop="20251120010100 +0000" channel="National Geographic.ar">
+<programme start="20251119235900 +0000" stop="20251120010000 +0000" channel="National Geographic.ar">
 <title>Alerta aeropuerto</title>
 <sub-title>Drogas ocultas</sub-title>
 <desc>En este episodio, el Comando Antinarcoticos logra desbaratar el sorprendente plan de un pasajero que intenta intercambiar su maleta ya revisada por otra que le entrega una complice y que contiene 19 kilogramos de cocaína.</desc>
 <episode-num system="xmltv_ns">1.5.</episode-num>
 </programme>
-<programme start="20251120010100 +0000" stop="20251120020200 +0000" channel="National Geographic.ar">
+<programme start="20251120010000 +0000" stop="20251120020200 +0000" channel="National Geographic.ar">
 <title>Traficantes</title>
 <sub-title>La Brigada Beagle</sub-title>
 <desc>En un barrio de San Luis, el HSI lleva a cabo una operacion encubierta para desmantelar una red de tráfico de drogas. En San Ysidro, la CBP detiene un vehículo cargado de cocaína que intentaba entrar en Estados Unidos.</desc>
@@ -12909,63 +12960,35 @@
 <title>Paramount Soundtrack</title>
 <desc>Videos para empezar el día con la mejor música de artistas internacionales y latinos.</desc>
 </programme>
-<programme start="20251119120000 +0000" stop="20251119130000 +0000" channel="Paramount Network.ar">
-<title>Paramount Soundtrack</title>
-<desc>Videos para empezar el día con la mejor música de artistas internacionales y latinos.</desc>
-</programme>
-<programme start="20251119130000 +0000" stop="20251119133000 +0000" channel="Paramount Network.ar">
-<title>Ridiculousness</title>
-<sub-title>Sterling y Karrueche Tran XXII</sub-title>
-<desc>Rob, Steelo y Karrueche Tran echan un vistazo a la batalla entre "Drunks vs. Stairs", se dirigen a la playa para encontrarse con algunas "Angry Seals" y se meten en medio del mosh pit en "Mosh Madness".</desc>
-<episode-num system="xmltv_ns">33.22.</episode-num>
-</programme>
-<programme start="20251119133000 +0000" stop="20251119140000 +0000" channel="Paramount Network.ar">
-<title>Ridiculousness</title>
-<sub-title>Sterling y Karrueche Tran XXIII</sub-title>
-<desc>Rob, Steelo y Karrueche Tran hablan sobre sus "Llamadas perdidas", intentan no reírse demasiado de los "Amantes del curro" y cobran vida con "Dibujos animados humanos".</desc>
-<episode-num system="xmltv_ns">33.23.</episode-num>
-</programme>
-<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="Paramount Network.ar">
-<title>Ridiculousness</title>
-<sub-title>Sterling y Karrueche Tran XXIV</sub-title>
-<desc>Rob y Steelo le dan la bienvenida a Karrueche Tran para ver Trasero demoledor. Luego, se ponen Firmes al ejercicio. Además, hacen El baile del snack.</desc>
-<episode-num system="xmltv_ns">34.29.</episode-num>
-</programme>
-<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="Paramount Network.ar">
-<title>Ridiculousness</title>
-<sub-title>Sterling y Carly Aquilino XIX</sub-title>
-<desc>Rob, Steelo y Carly Aquilino reviven tener: compañeros de cuarto extraños. Luego, visitan algunos: Cajeros Cranky. Además, mantienen la casa limpia con la ayuda de: Tidy Cats.</desc>
-<episode-num system="xmltv_ns">34.1.</episode-num>
-</programme>
-<programme start="20251119150000 +0000" stop="20251119160000 +0000" channel="Paramount Network.ar">
+<programme start="20251119120000 +0000" stop="20251119125000 +0000" channel="Paramount Network.ar">
 <title>Albert</title>
 <desc>Albert es un pequeño abeto que sueña con ser el árbol de Navidad más famoso. Al saber que se busca al candidato de este año, decide emprender un viaje con sus dos mejores amigos para cumplir su sueño.</desc>
 </programme>
-<programme start="20251119160000 +0000" stop="20251119163500 +0000" channel="Paramount Network.ar">
+<programme start="20251119125000 +0000" stop="20251119140500 +0000" channel="Paramount Network.ar">
 <title>Los padrinos mágicos: paraíso mágico</title>
 <desc>Timmy Turner y sus padrinos mágicos se van de vacaciones de verano a Hawái. Pero, por desgracia para Timmy, algo nos dice que no serán unas vacaciones tranquilas.</desc>
 </programme>
-<programme start="20251119163500 +0000" stop="20251119181500 +0000" channel="Paramount Network.ar">
-<title>Corre como una chica</title>
-<desc>Cuenta la historia de Michelle Payne, la primera jockey femenina en ganar la copa Melbourne.</desc>
+<programme start="20251119140500 +0000" stop="20251119155500 +0000" channel="Paramount Network.ar">
+<title>Persiguiendo un sueño</title>
+<desc>David, un chico normal sumamente enamorado de su novia Sarah, recibe un ultimátum por parte de esta. Sarah se irá a Nueva York por dos meses y al volver desea saber si David está preparado para casarse con ella.</desc>
 </programme>
-<programme start="20251119181500 +0000" stop="20251119201000 +0000" channel="Paramount Network.ar">
+<programme start="20251119155500 +0000" stop="20251119191000 +0000" channel="Paramount Network.ar">
 <title>Cloud Atlas: la red invisible</title>
 <desc>Un recorrido por distintas historias a lo largo de 500 años. Hechos en el pasado que afectan en el futuro, asesinos que en vidas posteriores son heroes, y actos bondadosos que siglos despues inspiran revoluciones.</desc>
 </programme>
-<programme start="20251119201000 +0000" stop="20251119214000 +0000" channel="Paramount Network.ar">
+<programme start="20251119191000 +0000" stop="20251119205000 +0000" channel="Paramount Network.ar">
 <title>El refugio</title>
 <desc>¡La escuela de verano, es un fastidio! Eso es lo que Mason, Aidan, Maddie, Melinda y Luke piensan el primer día de clases. Pero cuando encuentran a un lindo perrito al que llaman Chewy, los días son cualquier cosa menos aburridos.</desc>
 </programme>
-<programme start="20251119214000 +0000" stop="20251119231500 +0000" channel="Paramount Network.ar">
+<programme start="20251119205000 +0000" stop="20251119223500 +0000" channel="Paramount Network.ar">
 <title>Una loca competencia</title>
 <desc>Un antiguo campeon de ping pong es reclutado por el gobierno de los EE. UU. para participar en un torneo en China y poner al descubierto a una red criminal que además causo la muerte de su padre.</desc>
 </programme>
-<programme start="20251119231500 +0000" stop="20251120004000 +0000" channel="Paramount Network.ar">
+<programme start="20251119223500 +0000" stop="20251120001500 +0000" channel="Paramount Network.ar">
 <title>Siempre a tu lado</title>
 <desc>Un profesor de universidad adopta a Hachiko, un perro vagabundo de una estacion del tren. Hachiko cambiará su vida cuando el descubra los lazos que se pueden crear entre un animal y una persona. Basada en una historia real.</desc>
 </programme>
-<programme start="20251120004000 +0000" stop="20251120024500 +0000" channel="Paramount Network.ar">
+<programme start="20251120001500 +0000" stop="20251120024500 +0000" channel="Paramount Network.ar">
 <title>Cometas en el cielo</title>
 <desc>Tras años en California, Amir regresa a su tierra natal en Afganistán para ayudar a su viejo amigo Hassan, cuyo hijo está en problemas.</desc>
 </programme>
@@ -13488,21 +13511,21 @@
 <title>Siete minutos</title>
 <desc>Jude y June entran en un armario oculto y emergen en una realidad alternativa, donde nada es como parece. Ahora tienen que encontrar su camino de regreso a traves del armario antes de que se cierre para siempre.</desc>
 </programme>
-<programme start="20251119191900 +0000" stop="20251119212000 +0000" channel="Star Channel HD.ar">
+<programme start="20251119191900 +0000" stop="20251119212100 +0000" channel="Star Channel HD.ar">
 <title>El esplendoroso presente</title>
 <desc>Basada en la novela de Tim Tharp, este film muestra como el estudiante Sutter lleva a cabo un experimento social para comprobar si es capaz de influir en la vida de las personas. En este caso, en la de Aimee.</desc>
 </programme>
-<programme start="20251119212000 +0000" stop="20251119235300 +0000" channel="Star Channel HD.ar">
+<programme start="20251119212100 +0000" stop="20251119235400 +0000" channel="Star Channel HD.ar">
 <title>Duro de matar</title>
 <desc>Es la víspera de navidad y la alegría se vuelve tragedia cuando los asistentes de una fiesta de trabajo son tomados como rehenes por terroristas en Los Ángeles. El oficial McClane hará hasta lo imposible para detener a los malvivientes.</desc>
 </programme>
-<programme start="20251119235300 +0000" stop="20251120002600 +0000" channel="Star Channel HD.ar">
+<programme start="20251119235400 +0000" stop="20251120002700 +0000" channel="Star Channel HD.ar">
 <title>Los Simpson</title>
 <sub-title>El hombre radioactivo</sub-title>
 <desc>Productores de Hollywood contratan a Milhouse para que actúe en una película basada en la popular historieta "El hombre radioactivo".</desc>
 <episode-num system="xmltv_ns">6.1.</episode-num>
 </programme>
-<programme start="20251120002600 +0000" stop="20251120010000 +0000" channel="Star Channel HD.ar">
+<programme start="20251120002700 +0000" stop="20251120010000 +0000" channel="Star Channel HD.ar">
 <title>Los Simpson</title>
 <sub-title>Hogar, dulce hogarcirijillo</sub-title>
 <desc>Los Flanders obtienen la custodia de los hijos de los Simpson despues de que unos asistentes sociales acusan a Homero y Marge de negligencia.</desc>
@@ -13582,21 +13605,21 @@
 <title>Siete minutos</title>
 <desc>Jude y June entran en un armario oculto y emergen en una realidad alternativa, donde nada es como parece. Ahora tienen que encontrar su camino de regreso a traves del armario antes de que se cierre para siempre.</desc>
 </programme>
-<programme start="20251119191900 +0000" stop="20251119212000 +0000" channel="Star Channel.ar">
+<programme start="20251119191900 +0000" stop="20251119212100 +0000" channel="Star Channel.ar">
 <title>El esplendoroso presente</title>
 <desc>Basada en la novela de Tim Tharp, este film muestra como el estudiante Sutter lleva a cabo un experimento social para comprobar si es capaz de influir en la vida de las personas. En este caso, en la de Aimee.</desc>
 </programme>
-<programme start="20251119212000 +0000" stop="20251119235300 +0000" channel="Star Channel.ar">
+<programme start="20251119212100 +0000" stop="20251119235400 +0000" channel="Star Channel.ar">
 <title>Duro de matar</title>
 <desc>Es la víspera de navidad y la alegría se vuelve tragedia cuando los asistentes de una fiesta de trabajo son tomados como rehenes por terroristas en Los Ángeles. El oficial McClane hará hasta lo imposible para detener a los malvivientes.</desc>
 </programme>
-<programme start="20251119235300 +0000" stop="20251120002600 +0000" channel="Star Channel.ar">
+<programme start="20251119235400 +0000" stop="20251120002700 +0000" channel="Star Channel.ar">
 <title>Los Simpson</title>
 <sub-title>El hombre radioactivo</sub-title>
 <desc>Productores de Hollywood contratan a Milhouse para que actúe en una película basada en la popular historieta "El hombre radioactivo".</desc>
 <episode-num system="xmltv_ns">6.1.</episode-num>
 </programme>
-<programme start="20251120002600 +0000" stop="20251120010000 +0000" channel="Star Channel.ar">
+<programme start="20251120002700 +0000" stop="20251120010000 +0000" channel="Star Channel.ar">
 <title>Los Simpson</title>
 <sub-title>Hogar, dulce hogarcirijillo</sub-title>
 <desc>Los Flanders obtienen la custodia de los hijos de los Simpson despues de que unos asistentes sociales acusan a Homero y Marge de negligencia.</desc>
@@ -14397,6 +14420,7 @@
 </programme>
 <programme start="20251120150000 +0000" stop="20251120160000 +0000" channel="Telemax.ar">
 <title>La patria jinetea y canta</title>
+<desc>Programa que promueve y difunde las actividades culturales del interior de nuestro país, haciendo hincapie en el rescate de las fiestas populares y el folclore.</desc>
 </programme>
 <programme start="20251120160000 +0000" stop="20251120170000 +0000" channel="Telemax.ar">
 <title>Selecciones Telemax</title>
@@ -15031,163 +15055,169 @@
 <desc>La mejor amiga de Evelyn cree que está haciendo todo muy rápido. A pesar de la resistencia de su madre, Nicole y May se van a Marruecos. David intenta conseguir suficiente dinero para satisfacer a la familia de Annie.</desc>
 <episode-num system="xmltv_ns">4.1.</episode-num>
 </programme>
-<programme start="20251119030600 +0000" stop="20251119035200 +0000" channel="TLC.ar">
+<programme start="20251119030600 +0000" stop="20251119031200 +0000" channel="TLC.ar">
 <title>Un gran mundo pequeño</title>
 <sub-title>Bienvenido a casa, Murphy</sub-title>
 <desc>Mientras Zach y Tori se preparan para recibir al nuevo miembro de su familia, reciben noticias preocupantes de su agente de bienes raíces. Luego de otro desacuerdo con Amy sobre la granja, Matt propone dividir las propiedades.</desc>
 <episode-num system="xmltv_ns">18.1.</episode-num>
 </programme>
-<programme start="20251119035200 +0000" stop="20251119043600 +0000" channel="TLC.ar">
+<programme start="20251119031200 +0000" stop="20251119035900 +0000" channel="TLC.ar">
+<title>Un gran mundo pequeño</title>
+<sub-title>Bienvenido a casa, Murphy</sub-title>
+<desc>Mientras Zach y Tori se preparan para recibir al nuevo miembro de su familia, reciben noticias preocupantes de su agente de bienes raíces. Luego de otro desacuerdo con Amy sobre la granja, Matt propone dividir las propiedades.</desc>
+<episode-num system="xmltv_ns">18.1.</episode-num>
+</programme>
+<programme start="20251119035900 +0000" stop="20251119044600 +0000" channel="TLC.ar">
 <title>La gran familia Derrico</title>
 <sub-title>Reencontrar la felicidad</sub-title>
 <desc>Mientras el viaje llega a su fin, la familia Derrico celebra Halloween en Carolina del Sur. Además, Karen está estresada por su proxima ecografía y Deon y Karen deben darle la noticia a GG y a los niños sobre una posible mudanza.</desc>
 <episode-num system="xmltv_ns">2.4.</episode-num>
 </programme>
-<programme start="20251119043600 +0000" stop="20251119052000 +0000" channel="TLC.ar">
+<programme start="20251119044600 +0000" stop="20251119053100 +0000" channel="TLC.ar">
 <title>4 esposas, 1 marido</title>
 <sub-title>Cena de Accion de Gracias</sub-title>
 <desc>Luego de participar en su primera sesion de terapia conjunta, Meri y Janelle dan otro paso para intentar llevarse bien: decorar juntas la casa para la gran cena del Día de Accion de Gracias. Pero la primera reunion ya empieza mal.</desc>
 <episode-num system="xmltv_ns">5..</episode-num>
 </programme>
-<programme start="20251119052000 +0000" stop="20251119060400 +0000" channel="TLC.ar">
+<programme start="20251119053100 +0000" stop="20251119055400 +0000" channel="TLC.ar">
 <title>Vestido de novia</title>
 <sub-title>Mi día, al estilo de mi mamá</sub-title>
 <desc>La reina de belleza Anastagia quiere escoger su propio vestido, pero debe luchar contra su madre. Christalyne debe ampliar su paleta de colores para complacer a sus suegros indios. Lisa discute con su madre por un vestido color marfil.</desc>
 <episode-num system="xmltv_ns">10.14.</episode-num>
 </programme>
-<programme start="20251119060400 +0000" stop="20251119064800 +0000" channel="TLC.ar">
+<programme start="20251119055400 +0000" stop="20251119063800 +0000" channel="TLC.ar">
 <title>Kilos mortales: las hermanas Slaton</title>
 <sub-title>Jerry se entera</sub-title>
 <desc>Amy cuenta los días hasta su parto con una excentrica sesion de fotos, mientras la familia se preocupa de que Jerry este arruinando la dieta de Tammy. Por su parte, Tammy le revela su gran secreto a Jerry.</desc>
 <episode-num system="xmltv_ns">1.6.</episode-num>
 </programme>
-<programme start="20251119064800 +0000" stop="20251119073200 +0000" channel="TLC.ar">
+<programme start="20251119063800 +0000" stop="20251119072300 +0000" channel="TLC.ar">
 <title>Una gran familia</title>
 <sub-title>Venimos de Urano</sub-title>
 <desc>Los Johnston investigan su historia familiar con la ayuda de un genealogista y obtienen resultados inesperados. Mientras, Jonah se enfrenta a las consecuencias de ser expulsado de la universidad y Trent y Amber buscan ayuda profesional.</desc>
 <episode-num system="xmltv_ns">4.10.</episode-num>
 </programme>
-<programme start="20251119073200 +0000" stop="20251119081600 +0000" channel="TLC.ar">
+<programme start="20251119072300 +0000" stop="20251119081500 +0000" channel="TLC.ar">
 <title>Investigacion paranormal con los Osbourne</title>
 <sub-title>El tiempo se acaba</sub-title>
 <desc>La familia Osbourne se sube a su Delorean para jugar a viaje en el tiempo con celebridades. Intentan pronunciar el nombre de un críptido sueco y son testigos de una caza de brujas. Ozzy está más cerca de creer en los ovnis.</desc>
 <episode-num system="xmltv_ns">1.15.</episode-num>
 </programme>
-<programme start="20251119081600 +0000" stop="20251119090000 +0000" channel="TLC.ar">
+<programme start="20251119081500 +0000" stop="20251119090000 +0000" channel="TLC.ar">
 <title>Una gran familia</title>
 <sub-title>Desesperados buscando a Santa</sub-title>
 <desc>En Finlandia, Trent, Amber, Emma y Alex deben aprobar el examen en la escuela Elf antes de conocer a Santa Claus. De regreso a casa, Jonah y Ashley se ponen al día y Elizabeth planea su cumpleaños número 21.</desc>
 <episode-num system="xmltv_ns">12.5.</episode-num>
 </programme>
-<programme start="20251119090000 +0000" stop="20251119110000 +0000" channel="TLC.ar">
+<programme start="20251119090000 +0000" stop="20251119110600 +0000" channel="TLC.ar">
 <title>Todo en 90 días: antes del viaje</title>
 <sub-title>Mal romance</sub-title>
 <desc>Jasmine explota por los mensajes de texto de Gino a su ex. Ben intenta localizar a Mahogany. Memphis le pide a Hamza un acuerdo prenupcial. Mike contempla hacerle la pregunta a Ximena. Caleb y Alina finalmente pueden volverse exclusivos.</desc>
 <episode-num system="xmltv_ns">4.8.</episode-num>
 </programme>
-<programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="TLC.ar">
+<programme start="20251119110600 +0000" stop="20251119112900 +0000" channel="TLC.ar">
 <title>Tacaños extremos</title>
 <sub-title>Jordan y Michael</sub-title>
 <desc>Jordan, una mujer casada de Utah, gasta solo $1400 al mes para su familia de cinco al racionar todo y pedirles las sobras a sus vecinos.</desc>
 <episode-num system="xmltv_ns">1.3.</episode-num>
 </programme>
-<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="TLC.ar">
+<programme start="20251119112900 +0000" stop="20251119115900 +0000" channel="TLC.ar">
 <title>Televentas</title>
 <desc>Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce como obtenerlos de la manera más rápida y sencilla posible.</desc>
 </programme>
-<programme start="20251119120000 +0000" stop="20251119123000 +0000" channel="TLC.ar">
+<programme start="20251119115900 +0000" stop="20251119122900 +0000" channel="TLC.ar">
 <title>Televentas</title>
 <desc>Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce como obtenerlos de la manera más rápida y sencilla posible.</desc>
 </programme>
-<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="TLC.ar">
+<programme start="20251119122900 +0000" stop="20251119125900 +0000" channel="TLC.ar">
 <title>Televentas</title>
 <desc>Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce como obtenerlos de la manera más rápida y sencilla posible.</desc>
 </programme>
-<programme start="20251119130000 +0000" stop="20251119143400 +0000" channel="TLC.ar">
+<programme start="20251119125900 +0000" stop="20251119142900 +0000" channel="TLC.ar">
 <title>Todo en 90 días: antes del viaje</title>
 <sub-title>Atraccion fatal</sub-title>
 <desc>Gino enfrenta a Jasmine sobre su relacion secreta mientras Meisha y Nicola descubren cosas sorprendentes en una cita. Además, Tyray contrata a un investigador privado y Riley pone a Violet en la mira.</desc>
 <episode-num system="xmltv_ns">5.6.</episode-num>
 </programme>
-<programme start="20251119143400 +0000" stop="20251119152100 +0000" channel="TLC.ar">
+<programme start="20251119142900 +0000" stop="20251119151700 +0000" channel="TLC.ar">
 <title>El niño de mamá</title>
 <sub-title>¡Yo no me tiro pedos, hago caca!</sub-title>
 <desc>Janelle se ha cansado de las molestias de Tina. Además, Lori se hace cargo de la cita del vestido de novia de Tash; Kris y Shirlene finalmente se enfrentan, y Dia se apropia de la cita de Shahid y Nylah cuando el tiene dolor de muelas.</desc>
 <episode-num system="xmltv_ns">3.3.</episode-num>
 </programme>
-<programme start="20251119152100 +0000" stop="20251119160800 +0000" channel="TLC.ar">
+<programme start="20251119151700 +0000" stop="20251119160500 +0000" channel="TLC.ar">
 <title>El niño de mamá</title>
 <sub-title>Un cuerpo musculoso necesita un calzoncillo pequeño</sub-title>
 <desc>Cuando Austin le da a Kris su regalo de Navidad a Shirlene no le gusta. Por otro lado, Janelle tiene esperanzas cuando Tina se reencuentra con un viejo amor.</desc>
 <episode-num system="xmltv_ns">3.4.</episode-num>
 </programme>
-<programme start="20251119160800 +0000" stop="20251119165500 +0000" channel="TLC.ar">
+<programme start="20251119160500 +0000" stop="20251119165400 +0000" channel="TLC.ar">
 <title>Todo en 90 días</title>
-<sub-title>Te despides</sub-title>
-<desc>Dos parejas comienzan el periodo de 90 días. Luego de una pelea incomoda, Jorge se pregunta si aún tiene una prometida. Nicole se despide de Estados Unidos y viaja a Marruecos a encontrarse con su prometido, Azan, por primera vez.</desc>
+<sub-title>Los quiebres</sub-title>
+<desc>A Nicole y Azan les espera una sorpresa en el desierto. Chantel sale a comprar un vestido de novia sin su madre y Anfisa se prueba uno de $45,000 dolares. Esceptica, Narkiya espera noticias de Lowo, insiste sobre su telefono robado.</desc>
 <episode-num system="xmltv_ns">3..</episode-num>
 </programme>
-<programme start="20251119165500 +0000" stop="20251119174200 +0000" channel="TLC.ar">
+<programme start="20251119165400 +0000" stop="20251119174300 +0000" channel="TLC.ar">
 <title>Una gran familia</title>
 <sub-title>Grandes casas a la venta</sub-title>
 <desc>Liz empieza el difícil camino de la recuperacion, mientras Amber recibe ayuda de Anna y Alex.</desc>
 <episode-num system="xmltv_ns">2.9.</episode-num>
 </programme>
-<programme start="20251119174200 +0000" stop="20251119182900 +0000" channel="TLC.ar">
+<programme start="20251119174300 +0000" stop="20251119183100 +0000" channel="TLC.ar">
 <title>Kilos mortales: las hermanas Slaton</title>
 <sub-title>El fin de una era</sub-title>
 <desc>Amy y Michael finalmente se mudan del dúplex, mientras que la etapa desenfrenada de Tammy empeora. Luego, Amanda intenta hablar con su hermana antes de que sea demasiado tarde y Amy se enfrenta a la dura realidad en su revision anual.</desc>
 <episode-num system="xmltv_ns">2.10.</episode-num>
 </programme>
-<programme start="20251119182900 +0000" stop="20251119191600 +0000" channel="TLC.ar">
+<programme start="20251119183100 +0000" stop="20251119191900 +0000" channel="TLC.ar">
 <title>Todo en 90 días</title>
 <sub-title>Me ire a casa</sub-title>
 <desc>Chelsea entra en pánico antes de la boda. Mientras, a medida que se acerca el gran día, Jason y Cassia intentan resolver sus diferencias en Las Vegas.</desc>
 <episode-num system="xmltv_ns">1.9.</episode-num>
 </programme>
-<programme start="20251119191600 +0000" stop="20251119200300 +0000" channel="TLC.ar">
+<programme start="20251119191900 +0000" stop="20251119200600 +0000" channel="TLC.ar">
 <title>Todo en 90 días</title>
 <sub-title>Lleno de sorpresas</sub-title>
 <desc>La convivencia es dura para Mark y Nikki. El pasado de Aleksandra sorprende a la familia de Josh. Melanie busca el anillo perfecto y conoce a la madre de Devar. Kyle le prueba su amor a Noon.</desc>
 <episode-num system="xmltv_ns">2.3.</episode-num>
 </programme>
-<programme start="20251119200300 +0000" stop="20251119213700 +0000" channel="TLC.ar">
+<programme start="20251119200600 +0000" stop="20251119214300 +0000" channel="TLC.ar">
 <title>Todo en 90 días: antes del viaje</title>
 <sub-title>Mal-entendido</sub-title>
 <desc>Gino y Jasmine buscan ayuda profesional mientras Amanda se sorprende porque Razvan quiere hijos. Además, Statler y Dempsey pasan la noche juntas y Sheila se siente amenazada. Luego, Violet se aleja de Riley.</desc>
 <episode-num system="xmltv_ns">5.7.</episode-num>
 </programme>
-<programme start="20251119213700 +0000" stop="20251119222400 +0000" channel="TLC.ar">
+<programme start="20251119214300 +0000" stop="20251119223100 +0000" channel="TLC.ar">
 <title>Todo en 90 días</title>
 <sub-title>Más dinero, más problemas</sub-title>
 <desc>Danielle teme que Mohamed se vaya. Justin ve a su familia por primera vez desde que revelo su secreto. Cassia pelea con Jason por la confianza. El hermano de Danny arruina la cita con Amy. La mudanza de Yamir produce noticias devastadoras.</desc>
 <episode-num system="xmltv_ns">1.4.</episode-num>
 </programme>
-<programme start="20251119222400 +0000" stop="20251119231100 +0000" channel="TLC.ar">
+<programme start="20251119223100 +0000" stop="20251119231900 +0000" channel="TLC.ar">
 <title>Todo en 90 días</title>
 <sub-title>Temores, familia y futuro</sub-title>
 <desc>Justin y Evelin invitan a Jake y Jen a cenar. Daya enfrenta a Brett sobre el comportamiento de Cassidy. La mamá de Amy llega de Sudáfrica. Yamir se reúne con productores musicales en Chicago. Jason tiene una sorpresa para Cassia.</desc>
 <episode-num system="xmltv_ns">1.5.</episode-num>
 </programme>
-<programme start="20251119231100 +0000" stop="20251119235800 +0000" channel="TLC.ar">
+<programme start="20251119231900 +0000" stop="20251120000600 +0000" channel="TLC.ar">
 <title>Todo en 90 días</title>
 <sub-title>Tengo que decirte algo</sub-title>
 <desc>Jason y Cassia luchan con el trabajo de Jason y su presupuesto para la boda. Danielle le da malas noticias a Mohamed. Evelin habla con la mamá de Justin. La amiga de Brett, Sue, finalmente conoce a Daya.</desc>
 <episode-num system="xmltv_ns">1.6.</episode-num>
 </programme>
-<programme start="20251119235800 +0000" stop="20251120013200 +0000" channel="TLC.ar">
+<programme start="20251120000600 +0000" stop="20251120014500 +0000" channel="TLC.ar">
 <title>Todo en 90 días: antes del viaje</title>
 <sub-title>El sonido y la furia</sub-title>
 <desc>El temperamento de Rayne estalla en el mercado mientras Tigerlily y Adnan se casan oficialmente. Además, Veah planea traer a su ex para que conozca a su nuevo novio. Ingrid está abrumada por las necesidades físicas de Brian.</desc>
 <episode-num system="xmltv_ns">6.2.</episode-num>
 </programme>
-<programme start="20251120013200 +0000" stop="20251120021900 +0000" channel="TLC.ar">
+<programme start="20251120014500 +0000" stop="20251120023300 +0000" channel="TLC.ar">
 <title>Kilos mortales: las hermanas Slaton</title>
 <sub-title>La luz de mis ojos</sub-title>
 <desc>Llega el día de la boda de Tammy. Amanda y Misty cuestionan las intenciones de Caleb, su futuro esposo. Amy lucha por decorar el lugar del evento y controlar sus emociones. Un problema de vestuario y algunas dudas amenazan la ceremonia.</desc>
 <episode-num system="xmltv_ns">3.9.</episode-num>
 </programme>
-<programme start="20251120021900 +0000" stop="20251121021900 +0000" channel="TLC.ar">
+<programme start="20251120023300 +0000" stop="20251121023300 +0000" channel="TLC.ar">
 <title>Todo en 90 días</title>
 <sub-title>Que llegue el momento</sub-title>
 <desc>Empiezan los 90 días para dos parejas, cuando sus prometidos extranjeros llegan a Estados Unidos. Antes de que se vaya a Irlanda, los amigos de Elizabeth están preocupados por Andrei. Azan le da la bienvenida a Nicole en Marruecos.</desc>
@@ -15627,7 +15657,7 @@
 </programme>
 <programme start="20251119232800 +0000" stop="20251120010000 +0000" channel="TNT.ar">
 <title>MasterChef Celebrity</title>
-<desc>Esta edicion de MasterChef contará con participantes famosos. Ellos tendrán que atravesar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen, mientras son evaluados por un exigente jurado.</desc>
+<desc>Comienza un nuevo reto: el chef Germán Martitegui desafía a los participantes, a recrear su receta más personal. ¿Podrán cocinarla igual a como la hace el chef?</desc>
 <episode-num system="xmltv_ns">3.23.</episode-num>
 </programme>
 <programme start="20251120010000 +0000" stop="20251120025100 +0000" channel="TNT.ar">
